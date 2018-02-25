@@ -50,7 +50,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
 - [Whitepapers AWS](https://aws.amazon.com/pt/whitepapers/)
-- [Whitepapers Google Cloud Platform]https://cloud.google.com/whitepapers/)
+- [Whitepapers Google Cloud Platform](https://cloud.google.com/whitepapers/)
 - [Whitepapers Microsoft Azure](https://azure.microsoft.com/pt-br/resources/whitepapers/)
 
 ### Blogs, Disciplinas, Treinamentos
