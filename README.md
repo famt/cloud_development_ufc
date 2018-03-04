@@ -108,3 +108,5 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 | Aulas       | Tópicos                      | Recursos | Tarefas |
 |:-------------:|-----------------------------|:---------:|:-----------:|
 |22 Fev 2018|Apresentação da Disciplina|(https://github.com/famt/cloud_development_ufc/blob/master/aulas/Apresenta%C3%A7%C3%A3o%20da%20Disciplina.pdf) | - |
+|27 Fev 2018|Conceitos Básicos de Computação em Nuvem|(https://github.com/famt/cloud_development_ufc/blob/master/aulas/Conceitos%20B%C3%A1sicos%20de%20Nuvem.pdf) | - |
+|01 Mar 2018|Conceitos Básicos de Computação em Nuvem|(https://github.com/famt/cloud_development_ufc/blob/master/aulas/Conceitos%20B%C3%A1sicos%20de%20Nuvem.pdf) | - |
