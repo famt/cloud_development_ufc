@@ -1,4 +1,5 @@
 
+
 # CK0205 - Desenvolvimento de Software para Nuvem
 
 (Também CKP8422 - Topicos Especiais Em Redes E Sist. Distribuidos II)
@@ -110,3 +111,15 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 |22 Fev 2018|Apresentação da Disciplina|(https://github.com/famt/cloud_development_ufc/blob/master/aulas/Apresenta%C3%A7%C3%A3o%20da%20Disciplina.pdf) | - |
 |27 Fev 2018|Conceitos Básicos de Computação em Nuvem|(https://github.com/famt/cloud_development_ufc/blob/master/aulas/Conceitos%20B%C3%A1sicos%20de%20Nuvem.pdf) | - |
 |01 Mar 2018|Conceitos Básicos de Computação em Nuvem|(https://github.com/famt/cloud_development_ufc/blob/master/aulas/Conceitos%20B%C3%A1sicos%20de%20Nuvem.pdf) | - |
+|06 Mar 2018|Amazon AWS Demo| (http://aws.amazon.com) | - |
+|08 Mar 2018|AWS - Principais Serviços | (http://aws.amazon.com) | - |
+|13 Mar 2018|AWS Rest API | (https://github.com/famt/cloud_development_ufc/blob/master/aulas/AWS%20API.pdf) | Trabalho AWS(https://github.com/famt/cloud_development_ufc/blob/master/trabalhos/Especifica%C3%A7%C3%A3oTrabalhoAWS.pdf) |
+|15 Mar 2018|Elasticidade | (https://github.com/famt/cloud_development_ufc/blob/master/aulas/Virtualizacao.pdf) | - |
+|15 Mar 2018|Elasticidade | (https://github.com/famt/cloud_development_ufc/blob/master/aulas/Virtualizacao.pdf) | - |
+|22 Fev 2018|Google Cloud Platform|(https://github.com/famt/cloud_development_ufc/blob/master/aulas/GAE%20API.pdf) | Trabalho GAE(https://github.com/famt/cloud_development_ufc/blob/master/trabalhos/Especificac%CC%A7a%CC%83o%20Trabalho_GCP.pdf.pdf) |
+|27 Mar 2018|Virtualização|(https://github.com/famt/cloud_development_ufc/blob/master/aulas/Virtualizacao.pdf) | - |
+|29 Mar 2018|Semana Santa| - | - |
+|03 Abr 2018|Amazon Auto Scalling Groups| () | - |
+|05 Abr 2018|Revisão para Prova| (https://github.com/famt/cloud_development_ufc/blob/master/exercicios/Exerc%C3%ADcios%20de%20Revis%C3%A3o%202018.pdf) | - |
+|10 Abr 2018|Primeira Avaliação| (https://github.com/famt/cloud_development_ufc/blob/master/provas/Prova1.pdf) | - |
+|12 Abr 2018|Turma Liberada para Conclusão de Projeto| - | - |
