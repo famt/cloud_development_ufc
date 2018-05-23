@@ -125,7 +125,7 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 |12 Abr 2018|Turma Liberada para Conclusão de Projeto| - | - |
 |17 Abr 2018|Apresentação dos Projetos| - | - |
 |24 Abr 2018|MultiTenancy| [PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/MultiInquilino.pdf) | - |
-|26 Abr 2018|Open Source Cloud| - | https://github.com/famt/cloud_development_ufc/blob/master/aulas/OpenSourceCloud.pdf |
+|26 Abr 2018|Open Source Cloud| - | [PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/OpenSourceCloud.pdf) |
 |01 Mai 2018|Feriado (Dia do Trabalho)| - | - |
 |03 Mai 2018|Demonstração OpenStack| - | - |
 |08 Mai 2018|Desafios na Integração Nuvem + ES | - | - |
