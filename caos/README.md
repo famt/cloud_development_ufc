@@ -3,8 +3,8 @@ The CAOS (Context Acquisition and Offloading System) is a software platform for 
 
 ## **Get Started**
 
-Tutorial for beginners in development with CAOS. it shows all the settings and dependencies required to use the platform. Click [here](Get_Started.md)
+Tutorial for beginners in development with CAOS. it shows all the settings and dependencies required to use the platform. Click [here](Get_Started.md).
 
 ## **Processing Offloading**
 
-If all dependencies and settings are already done, perform the processing offloading tutorial. Click [here](Processing.md)
+If all dependencies and settings are already done, perform the processing offloading tutorial. Click [here](Processing.md).
