@@ -103,7 +103,7 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 * And finish the initiallization.
 
-![](images/Picture20.png)
+![](images/Picture21.png)
 
 **Note:** Never turn off the virtual machine. Save the machine state and close the virtualbox application.
 
@@ -111,38 +111,34 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 * Select file, host network manager
 
-![](images/Picture21.png)
+![](images/Picture28.png)
 
 * Click on Create
 
-![](images/Picture22.png)
+![](images/Picture29.png)
 
 * Set the Enable DHCP server box
 
-![](images/Picture23.png)
+![](images/Picture30.png)
 
 * Now click on Settings of the VM
 
-![](images/Picture24.png)
+![](images/Picture31.png)
 
 * Open the tab Network
 
-![](images/Picture25.png)
+![](images/Picture32.png)
 
 * At the field "Attached to" select Host-only Adapter and in the field "Name" select the network created previously.
 
-![](images/Picture26.png)
+![](images/Picture33.png)
 
 * Now, initialize the Virtual Machine
 
-![](images/Picture27.png)
-
 * Press Alt + F1 to open the prompt of command
-
-![](images/Picture28.png)
 
 * Use the command: "netcfg" to find the IP. The IP will be the interface eth0 (192.168.233.3). The IP will be used in configuration of vms in the CAOS Controller.
 
-![](images/Picture29.png)
+![](images/Picture34.png)
 
 Done all these steps, it is now possible to start developing a CAOS-based application. Click here to learn how to create the "Hello World" application.
