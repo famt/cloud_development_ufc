@@ -1,6 +1,6 @@
 # Processing Offloading
 
-In this tutorial a simple application based on CAOS is developed. For this tutorial, the Android Studio IDE is used. Note: You must install the dependencies and configure the environment. If you did not, follow this tutorial. 
+In this tutorial a simple application based on CAOS is developed. For this tutorial, the Android Studio IDE is used. Note: You must install the dependencies and configure the environment. If you did not, follow this [tutorial](Get_Started.md). 
 
 ## Initial Project
 
