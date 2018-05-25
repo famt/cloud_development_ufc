@@ -47,11 +47,9 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 * Press the button Create
 
-![](images/Picture7.png)
-
 * Select the android image version 4.4-r3 and use it as the start-up disk
 
-![](images/Picture8.png)
+![](images/Picture7.png)
 
 * Choose the last option
 
@@ -59,13 +57,17 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 * Select SDA
 
-![](images/Picture10.png)
+![](images/Picture9.png)
 
 * Select Ext3
 
-![](images/Picture11.png)
+![](images/Picture10.png)
 
 * Select Yes
+
+![](images/Picture11.png)
+
+* Select Skip
 
 ![](images/Picture12.png)
 
@@ -73,17 +75,13 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 ![](images/Picture13.png)
 
-* Select Skip
+* Select Yes
 
 ![](images/Picture14.png)
 
-* Select Yes
-
-![](images/Picture15.png)
-
 * Select Run Android x86
 
-![](images/Picture16.png)
+![](images/Picture15.png)
 
 * Now follow a typical android initialization. Choose the language.
 
