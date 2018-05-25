@@ -127,7 +127,8 @@ public class MainActivity extends AppCompatActivity {
 * Go to the project folder and find the generated apk (<workspace>/HelloWorld/app/build/outputs/apk). You must rename app-debug.apk to the project package name + underline + version of the application. In our case, it is com.example.anderson.helloworld_1.0.apk. This procedure is necessary for the server to identify the application.
 
 *  Extract the server side of the CAOS (Download here)
-Insert the file renamed (com.example.anderson.helloworld_1.0.apk) to the folder "apks" in the folder extracted. 
+
+* Insert the file renamed (com.example.anderson.helloworld_1.0.apk) to the folder "apks" in the folder extracted. 
 
 ## Execution
 
@@ -154,8 +155,8 @@ prop.server.port.discovery.reply=31002
 prop.coap.offloading=false
 ```
 
-*  Start the android image of virtualbox
-*  In command line, enter into the server folder and run the following command: java -jar caos-server.jar
-*  Wait the server to start. 
-*  When the server starts, you can perform the offloading requests. 
+* Start the android image of virtualbox
+* In command line, enter into the server folder and run the following command: java -jar caos-server.jar
+* Wait the server to start. 
+* When the server starts, you can perform the offloading requests. 
 * Open the application and enjoy!!
