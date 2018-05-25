@@ -4,13 +4,6 @@ In this tutorial a simple application based on CAOS is developed. For this tutor
 Initial Project
 Create the Android Project
 
-
-
-
-
-
-
-
 Create the user interface of the application
 
 Insert the CAOS library in the folder “libs” of the project (download here)
@@ -114,7 +107,7 @@ Insert the file renamed (com.example.anderson.helloworld_1.0.apk) to the folder 
 Execution
 In the folder extracted has a folder called properties. Inside properties, has a file called vms. You must insert all VMs configured. In our example, the ip is 192.168.233.3. The port can be swapped into VMs, but by default it is 5555. The file may have other ips. So it will look like this:
 
-```
+```xml
 192.168.56.101:5555
 192.168.233.3:5555
 ```
@@ -122,7 +115,7 @@ In the folder extracted has a folder called properties. Inside properties, has a
 
 The file called net.properties in folder properties has some settings. The main properties is prop.server.networkInterfaceName. You must enter the interface name that will be used by CAOS.
 
-```
+```xml
 prop.server.networkInterfaceName=wlan0
 prop.server.port.authentication=8300
 prop.server.port.offloading=8891
