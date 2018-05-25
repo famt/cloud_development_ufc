@@ -57,7 +57,7 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 * Select SDA
 
-![](images/Picture10.png)
+![](images/Picture12.png)
 
 * Select Ext3
 
@@ -65,43 +65,47 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 * Select Yes
 
-![](images/Picture12.png)
-
-* Select Skip
-
 ![](images/Picture13.png)
 
 * Select Skip
 
 ![](images/Picture14.png)
 
-* Select Yes
+* Select Skip
 
 ![](images/Picture15.png)
 
-* Select Run Android x86
+* Select Yes
 
 ![](images/Picture16.png)
 
-* Now follow a typical android initialization. Choose the language.
+* Select Run Android x86
 
 ![](images/Picture17.png)
 
-* For now skip the network configuration.
+* Now follow a typical android initialization. Choose the language.
 
 ![](images/Picture18.png)
 
-* Skip the connection with google (No)
+* For now skip the network configuration.
 
 ![](images/Picture19.png)
 
+* Skip the connection with google (No)
+
+![](images/Picture21.png)
+
+![](images/Picture22.png)
+
+![](images/Picture23.png)
+
 * Choose a name to your tablet.
   
-![](images/Picture20.png)
+![](images/Picture24.png)
 
 * And finish the initiallization.
 
-![](images/Picture21.png)
+![](images/Picture26.png)
 
 **Note:** Never turn off the virtual machine. Save the machine state and close the virtualbox application.
 
