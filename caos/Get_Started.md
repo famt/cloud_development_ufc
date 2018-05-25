@@ -13,7 +13,7 @@ Before any action, you must install the necessary dependencies to run on the ser
 * (Optional – Contextual Data) MongoDB (https://www.mongodb.com/download-center) (version: 3.0)
 
 ## Initial Configurations
-After installing the dependencies, configure the postgre. By default, the user and password must be “postgres“. Create a database named "caos". 
+After installing the dependencies, configure the PostgreSQL. By default, the user and password must be “postgres“. Create a database named "caos". 
 
 * Put the program "adb" in the system path. The "adb" should be found in the following path: 
 /<installation_location>/android-sdk/platform-tools
