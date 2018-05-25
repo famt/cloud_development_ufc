@@ -13,9 +13,10 @@ In this tutorial a simple application based on CAOS is developed. For this tutor
 * Insert the command in build.gradle (app): `compile files('libs/caos_api.jar')`
 
 * Create the interface with offloadble methods. Add the annotation to each method that you want and can be offload
-`package com.example.anderson.helloworld`;
 
 ```java
+package com.example.anderson.helloworld;
+
 import br.ufc.great.caos.api.offload.Offloadable;
 
 public interface ICalc {
