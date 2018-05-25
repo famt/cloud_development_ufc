@@ -20,7 +20,7 @@ In this tutorial a simple application based on CAOS is developed. For this tutor
 
 ![](images/6.png)
 
-* Insert the CAOS library in the folder "libs" of the project ([download here]((downloads/caos_api.jar))
+* Insert the CAOS library in the folder "libs" of the project ([download here](downloads/caos_api.jar))
 
 ![](images/7.png)
 
