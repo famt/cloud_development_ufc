@@ -97,8 +97,6 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 ![](images/Picture22.png)
 
-![](images/Picture23.png)
-
 * Choose a name to your tablet.
   
 ![](images/Picture24.png)
