@@ -95,15 +95,11 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 ![](images/Picture21.png)
 
-![](images/Picture22.png)
-
 * Choose a name to your tablet.
   
 ![](images/Picture24.png)
 
 * And finish the initiallization.
-
-![](images/Picture26.png)
 
 **Note:** Never turn off the virtual machine. Save the machine state and close the virtualbox application.
 
