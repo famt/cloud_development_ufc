@@ -6,9 +6,9 @@ Create the Android Project
 
 Create the user interface of the application
 
-Insert the CAOS library in the folder “libs” of the project (download here)
+Insert the CAOS library in the folder "libs" of the project (download here)
 
-Insert the command in build.gradle (app): compile files(‘libs/caos_api.jar’)
+Insert the command in build.gradle (app): `compile files('libs/caos_api.jar')`
 
 Create the interface with offloadble methods. Add the annotation to each method that you want and can be offload
 package com.example.anderson.helloworld;
@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-Add the permissions in AndoidManifest.xml
+Add the permissions in AndroidManifest.xml
 
 ```
 <uses-permission android:name="android.permission.INTERNET" />
@@ -103,9 +103,10 @@ Now you need to build the application. Click Build -> Build APK
 
 Go to the project folder and find the generated apk (<workspace>/HelloWorld/app/build/outputs/apk). You must rename app-debug.apk to the project package name + underline + version of the application. In our case, it is com.example.anderson.helloworld_1.0.apk. This procedure is necessary for the server to identify the application.
 Extract the server side of the CAOS (Download here)
-Insert the file renamed (com.example.anderson.helloworld_1.0.apk) to the folder “apks” in the folder extracted. 
-Execution
-In the folder extracted has a folder called properties. Inside properties, has a file called vms. You must insert all VMs configured. In our example, the ip is 192.168.233.3. The port can be swapped into VMs, but by default it is 5555. The file may have other ips. So it will look like this:
+Insert the file renamed (com.example.anderson.helloworld_1.0.apk) to the folder "apks" in the folder extracted. 
+
+## Execution
+In the folder extracted has a folder called properties. Inside properties, has a file called vms. You must insert all VMs configured. In our example, the ip is `192.168.233.3`. The port can be swapped into VMs, but by default it is 5555. The file may have other ips. So it will look like this:
 
 ```xml
 192.168.56.101:5555
@@ -113,7 +114,7 @@ In the folder extracted has a folder called properties. Inside properties, has a
 ```
  
 
-The file called net.properties in folder properties has some settings. The main properties is prop.server.networkInterfaceName. You must enter the interface name that will be used by CAOS.
+The file called net.properties in folder properties has some settings. The main properties is `prop.server.networkInterfaceName`. You must enter the interface name that will be used by CAOS.
 
 ```xml
 prop.server.networkInterfaceName=wlan0
