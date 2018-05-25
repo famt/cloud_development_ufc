@@ -13,7 +13,7 @@ In this tutorial a simple application based on CAOS is developed. For this tutor
 * Insert the command in build.gradle (app): `compile files('libs/caos_api.jar')`
 
 * Create the interface with offloadble methods. Add the annotation to each method that you want and can be offload
-package com.example.anderson.helloworld;
+`package com.example.anderson.helloworld`;
 
 ```java
 import br.ufc.great.caos.api.offload.Offloadable;
@@ -39,7 +39,7 @@ public class Calc implements ICalc {
 }
 ```
 
-* Configure the Main class (MainActivity). You need to add the ```java @CaosConfig``` annotation (line 13). The ```java @Inject``` annotation as parameter receives the class that has implemented the interface (line 16). Create an attribute of the interface type (line 17). In the onCreate method, start the CAOS service (line 37) and in the onDestroy method stop the service (line 43). The click event on the button performs the method created on the interface (line 33). If possible, the method is offloaded on the server. If not, it is performed on the mobile device.
+* Configure the Main class (MainActivity). You need to add the `@CaosConfig` annotation (line 13). The `@Inject` annotation as parameter receives the class that has implemented the interface (line 16). Create an attribute of the interface type (line 17). In the onCreate method, start the CAOS service (line 37) and in the onDestroy method stop the service (line 43). The click event on the button performs the method created on the interface (line 33). If possible, the method is offloaded on the server. If not, it is performed on the mobile device.
 
 ```java
 package com.example.anderson.helloworld;
@@ -88,7 +88,8 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-Add the permissions in AndroidManifest.xml
+
+* Add the permissions in AndroidManifest.xml
 
 ```
 <uses-permission android:name="android.permission.INTERNET" />
