@@ -20,7 +20,7 @@ In this tutorial a simple application based on CAOS is developed. For this tutor
 
 ![](images/6.png)
 
-* Insert the CAOS library in the folder "libs" of the project ([download here](downloads/caos_api.jar))
+* Insert the CAOS library in the folder "libs" of the project (download [here](downloads/caos_api.jar))
 
 ![](images/7.png)
 
@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
 
 * Go to the project folder and find the generated apk (<workspace>/HelloWorld/app/build/outputs/apk). You must rename app-debug.apk to the project package name + underline + version of the application. In our case, it is com.example.anderson.helloworld_1.0.apk. This procedure is necessary for the server to identify the application.
 
-*  Extract the server side of the CAOS (Download here)
+*  Extract the server side of the CAOS (download [here](downloads/caos_server.zip))
 
 * Insert the file renamed (com.example.anderson.helloworld_1.0.apk) to the folder "apks" in the folder extracted. 
 
