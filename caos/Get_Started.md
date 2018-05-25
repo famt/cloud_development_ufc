@@ -137,4 +137,4 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 ![](images/Picture34.png)
 
-Done all these steps, it is now possible to start developing a CAOS-based application. Click here to learn how to create the "Hello World" application.
+Done all these steps, it is now possible to start developing a CAOS-based application. Click here to learn how to create the ["Hello World" application](Processing.md).
