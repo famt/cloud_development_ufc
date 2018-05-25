@@ -27,43 +27,83 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 * Set at least 2GB of memory
 
+![](images/Picture2.png)
+
 * Create a virtual hard disk
+
+![](images/Picture3.png)
 
 * Set the type file to VDI
 
+![](images/Picture4.png)
+
 * Choose the option Dynamically allocated
+
+![](images/Picture5.png)
 
 * Choose a name for the disk and set size toa t least 2GB
 
+![](images/Picture6.png)
+
 * Press the button Create
+
+![](images/Picture7.png)
 
 * Select the android image version 4.4-r3 and use it as the start-up disk
 
+![](images/Picture8.png)
+
 * Choose the last option
+
+![](images/Picture9.png)
 
 * Select SDA
 
+![](images/Picture10.png)
+
 * Select Ext3
 
+![](images/Picture11.png)
+
 * Select Yes
+
+![](images/Picture12.png)
 
 * Select Skip
 
+![](images/Picture13.png)
+
 * Select Skip
 
+![](images/Picture14.png)
+
 * Select Yes
+
+![](images/Picture15.png)
 
 * Select Run Android x86
 
+![](images/Picture16.png)
+
 * Now follow a typical android initialization. Choose the language.
+
+![](images/Picture16.png)
 
 * For now skip the network configuration.
 
+![](images/Picture17.png)
+
 * Skip the connection with google (No)
+
+![](images/Picture18.png)
 
 * Choose a name to your tablet.
   
+![](images/Picture19.png)
+
 * And finish the initiallization.
+
+![](images/Picture20.png)
 
 **Note:** Never turn off the virtual machine. Save the machine state and close the virtualbox application.
 
@@ -71,20 +111,38 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 * Select file, host network manager
 
+![](images/Picture21.png)
+
 * Click on Create
+
+![](images/Picture22.png)
 
 * Set the Enable DHCP server box
 
+![](images/Picture23.png)
+
 * Now click on Settings of the VM
+
+![](images/Picture24.png)
 
 * Open the tab Network
 
+![](images/Picture25.png)
+
 * At the field "Attached to" select Host-only Adapter and in the field "Name" select the network created previously.
+
+![](images/Picture26.png)
 
 * Now, initialize the Virtual Machine
 
+![](images/Picture27.png)
+
 * Press Alt + F1 to open the prompt of command
 
+![](images/Picture28.png)
+
 * Use the command: "netcfg" to find the IP. The IP will be the interface eth0 (192.168.233.3). The IP will be used in configuration of vms in the CAOS Controller.
+
+![](images/Picture29.png)
 
 Done all these steps, it is now possible to start developing a CAOS-based application. Click here to learn how to create the "Hello World" application.
