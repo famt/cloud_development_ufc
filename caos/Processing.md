@@ -6,11 +6,27 @@ In this tutorial a simple application based on CAOS is developed. For this tutor
 
 * Create the Android Project
 
+![](images/1.png)
+
+![](images/2.png)
+
+![](images/3.png)
+
+![](images/4.png)
+
 * Create the user interface of the application
+
+![](images/5.png)
+
+![](images/6.png)
 
 * Insert the CAOS library in the folder "libs" of the project (download here)
 
+![](images/7.png)
+
 * Insert the command in build.gradle (app): `compile files('libs/caos_api.jar')`
+
+![](images/8.png)
 
 * Create the interface with offloadble methods. Add the annotation to each method that you want and can be offload
 
@@ -105,6 +121,8 @@ public class MainActivity extends AppCompatActivity {
 ## Deploy
 
 * Now you need to build the application. Click Build -> Build APK
+
+![](images/9.png)
 
 * Go to the project folder and find the generated apk (<workspace>/HelloWorld/app/build/outputs/apk). You must rename app-debug.apk to the project package name + underline + version of the application. In our case, it is com.example.anderson.helloworld_1.0.apk. This procedure is necessary for the server to identify the application.
 
