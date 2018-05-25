@@ -1,7 +1,7 @@
 # Get Started
 Everything you need to start developing apps for CAOS is available here. The CAOS is divided into two parts: mobile side and server side. You'll find everything from design guidelines (dependencies, configurations and setup) for the server side. Note: Preferably run the server side on Linux OS or OS X.
 
-# Dependencies
+## Dependencies
 Before any action, you must install the necessary dependencies to run on the server. Install the following programs:
 
 * Java (JDK) (http://www.oracle.com/technetwork/pt/java/javase/downloads/index.html) (version: 1.7+)
@@ -12,7 +12,7 @@ Before any action, you must install the necessary dependencies to run on the ser
 * (Optional) Android Studio IDE (https://developer.android.com/studio/index.html) (version: -)
 * (Optional – Contextual Data) MongoDB (https://www.mongodb.com/download-center) (version: 3.0)
 
-# Initial Configurations
+## Initial Configurations
 After installing the dependencies, configure the postgre. By default, the user and password must be “postgres“. Create a database named "caos". 
 
 * Put the program "adb" in the system path. The "adb" should be found in the following path: 
@@ -20,7 +20,7 @@ After installing the dependencies, configure the postgre. By default, the user a
 * Put the program “virtualbox” in the system path. The “virtualbox” should be found in the following path:
 /<installation_location>/virtualbox
 
-# Installing Android on the Virtual Machine
+## Installing Android on the Virtual Machine
 * Create a new VM
 
 * Set at least 2GB of memory
@@ -65,7 +65,7 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 **Note:** Never turn off the virtual machine. Save the machine state and close the virtualbox application.
 
-# Configuring the Network Access on the Virtual Machine
+## Configuring the Network Access on the Virtual Machine
 
 * Select file, host network manager
 
