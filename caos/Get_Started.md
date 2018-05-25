@@ -57,17 +57,13 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 * Select SDA
 
-![](images/Picture9.png)
+![](images/Picture10.png)
 
 * Select Ext3
 
-![](images/Picture10.png)
-
-* Select Yes
-
 ![](images/Picture11.png)
 
-* Select Skip
+* Select Yes
 
 ![](images/Picture12.png)
 
@@ -75,29 +71,33 @@ After installing the dependencies, configure the postgre. By default, the user a
 
 ![](images/Picture13.png)
 
-* Select Yes
+* Select Skip
 
 ![](images/Picture14.png)
 
-* Select Run Android x86
+* Select Yes
 
 ![](images/Picture15.png)
 
-* Now follow a typical android initialization. Choose the language.
+* Select Run Android x86
 
 ![](images/Picture16.png)
 
-* For now skip the network configuration.
+* Now follow a typical android initialization. Choose the language.
 
 ![](images/Picture17.png)
 
-* Skip the connection with google (No)
+* For now skip the network configuration.
 
 ![](images/Picture18.png)
 
+* Skip the connection with google (No)
+
+![](images/Picture19.png)
+
 * Choose a name to your tablet.
   
-![](images/Picture19.png)
+![](images/Picture20.png)
 
 * And finish the initiallization.
 
