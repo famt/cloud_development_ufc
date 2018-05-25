@@ -23,7 +23,7 @@ After installing the dependencies, configure the postgre. By default, the user a
 ## Installing Android on the Virtual Machine
 * Create a new VM
 
-![](../images/Picture1.png | width=100)
+![ok](images/Picture1.png)
 
 * Set at least 2GB of memory
 
