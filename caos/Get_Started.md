@@ -47,8 +47,6 @@ After installing the dependencies, configure the PostgreSQL. By default, the use
 
 * Press the button Create
 
-![](images/Picture7.png)
-
 * Select the android image version 4.4-r3 and use it as the start-up disk
 
 ![](images/Picture8.png)
