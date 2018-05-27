@@ -156,7 +156,7 @@ prop.coap.offloading=false
 ```
 
 * Start the android image of virtualbox
-* In command line, enter into the server folder and run the following command: java -jar caos-server.jar
+* In command line, enter into the server folder and run the following command: `java -jar caos_server.jar`
 * Wait the server to start. 
 * When the server starts, you can perform the offloading requests. 
 * Open the application and enjoy!!
