@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Camera Offloading</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="but_inicia">Inicia</string>
+    <string name="menu_act_cloudlet">IP Cloudlet</string>
+    <string name="menu_act_export">Exportar Banco</string>
+
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="alert_exit_title">Sair</string>
+    <string name="alert_exit_message">Deseja encerrar aplicação?</string>
+
+    <string-array name="spinner_size">
+        <item>0.3MP</item>
+        <item>1MP</item>
+        <item>2MP</item>
+        <item>4MP</item>
+        <item>8MP</item>
+    </string-array>
+
+    <string-array name="spinner_local">
+        <item>Local</item>
+        <item>Cloudlet</item>
+        <item>Internet</item>
+    </string-array>
+
+    <string-array name="spinner_img">
+        <item>FAB Show</item>
+        <item>Cidade</item>
+        <item>SkyLine</item>
+    </string-array>
+
+    <string-array name="spinner_filter">
+        <item>Original</item>
+        <item>Benchmark</item>
+        <item>Cartoonizer</item>
+        <item>Sharpen</item>
+        <item>Red Ton</item>
+    </string-array>
+    <string name="title_activity_hastags">HastagsActivity</string>
+</resources>
