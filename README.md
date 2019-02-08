@@ -10,11 +10,12 @@
 ### Instrutores
 
 * **Professor** - Fernando Trinta ([fernando.trinta@dc.ufc.br](mailto:fernando.trinta@dc.ufc.br))
-* **Assistente de Ensino** - Francisco Anderson de Almada Gomes, ([andersonalmadagomes@gmail.com](mailto:andersonalmadagomes@gmail.com))
+* **Professor** - Paulo Antônio ([EMAIL PAULO](mailto:EMAIL))
+* **Assistente de Ensino** - Lucas de Andrade Fernandes, ([lucas.andrade.ufc@gmail.com](mailto:lucas.andrade.ufc@gmail.com))
 
 ### Local
 
-Departamento de Computação, horários: Terça e Quintas (10:00-12:00), Bloco 950, Sala 05.
+Departamento de Computação, horários: Sexta (80:00-12:00), Bloco ???, Sala ??.
 Aulas práticas, quando ocorreram, serão no Lab LEC.
 
 ### Edições passadas
