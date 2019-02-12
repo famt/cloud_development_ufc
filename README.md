@@ -30,7 +30,7 @@ Um relato de experiência das várias edições desta disciplina pode ser estuda
 
 ### Tópicos 
 
-Conceitos Básicos de Computação em Nuvem. Modelos de Serviços e de Implantação em Nuvem. Virtualização. Desenvolvimento com PaaS. Desenvolvimento SaaS. Multitenancy. Mobile Cloud Computing. Desafios para software em nuvem.
+Conceitos Básicos de Computação em Nuvem. Modelos de Serviços e de Implantação em Nuvem. Virtualização. Desenvolvimento com PaaS. Desenvolvimento SaaS. Microserviços e Containers. IoT, Fog e Mobile Cloud Computing. Desafios para software em nuvem.
 
 ### Bibliografia Sugerida
 
