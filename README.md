@@ -10,7 +10,7 @@
 ### Instrutores
 
 * **Professor** - Fernando Trinta ([fernando.trinta@dc.ufc.br](mailto:fernando.trinta@dc.ufc.br))
-* **Professor** - Paulo Antônio ([EMAIL PAULO](mailto:EMAIL))
+* **Professor** - Paulo Antônio ([pauloalr@ufc.br](mailto:pauloalr@ufc.br))
 * **Assistente de Ensino** - Lucas de Andrade Fernandes, ([lucas.andrade.ufc@gmail.com](mailto:lucas.andrade.ufc@gmail.com))
 
 ### Local
@@ -109,29 +109,19 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 
 | Aulas       | Tópicos                      | Recursos | Tarefas |
 |:-------------:|-----------------------------|:---------:|:-----------:|
-|22 Fev 2018|Apresentação da Disciplina|[Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Apresenta%C3%A7%C3%A3o%20da%20Disciplina.pdf) | - |
-|27 Fev 2018|Conceitos Básicos de Computação em Nuvem| [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Conceitos%20B%C3%A1sicos%20de%20Nuvem.pdf) | - |
-|01 Mar 2018|Conceitos Básicos de Computação em Nuvem|[Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Conceitos%20B%C3%A1sicos%20de%20Nuvem.pdf) | - |
-|06 Mar 2018|Amazon AWS Demo| (http://aws.amazon.com) | - |
-|08 Mar 2018|AWS - Principais Serviços | (http://aws.amazon.com) | - |
-|13 Mar 2018|AWS Rest API | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/AWS%20API.pdf) | [Trabalho AWS](https://github.com/famt/cloud_development_ufc/blob/master/trabalhos/Especifica%C3%A7%C3%A3oTrabalhoAWS.pdf) |
-|15 Mar 2018|Elasticidade | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Virtualizacao.pdf) | - |
-|15 Mar 2018|Elasticidade | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Virtualizacao.pdf) | - |
-|22 Fev 2018|Google Cloud Platform|[Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/GAE%20API.pdf) | [Trabalho GAE](https://github.com/famt/cloud_development_ufc/blob/master/trabalhos/Especificac%CC%A7a%CC%83o%20Trabalho_GCP.pdf.pdf) |
-|27 Mar 2018|Virtualização|[Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Virtualizacao.pdf) | - |
-|29 Mar 2018|Semana Santa| - | - |
-|03 Abr 2018|Amazon Auto Scalling Groups| - | - |
-|05 Abr 2018|Revisão para Prova| [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/exercicios/Exerc%C3%ADcios%20de%20Revis%C3%A3o%202018.pdf) | - |
-|10 Abr 2018|Primeira Avaliação| [PDF](https://github.com/famt/cloud_development_ufc/blob/master/provas/Prova1.pdf) | - |
-|12 Abr 2018|Turma Liberada para Conclusão de Projeto| - | - |
-|17 Abr 2018|Apresentação dos Projetos| - | - |
-|24 Abr 2018|MultiTenancy| [PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/MultiInquilino.pdf) | - |
-|26 Abr 2018|Open Source Cloud| - | [PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/OpenSourceCloud.pdf) |
-|01 Mai 2018|Feriado (Dia do Trabalho)| - | - |
-|03 Mai 2018|Demonstração OpenStack| - | - |
-|08 Mai 2018|Desafios na Integração Nuvem + ES | - | - |
-|10 Mai 2018|Desafios na Integração Nuvem + ES (cont)| - | - |
-|15 Mai 2018|Turma Liberada para Conclusão de Projeto| - | - |
-|17 Mai 2018|Entrega de Notas da Avaliação 1| - | - |
-|22 Mai 2018| Mobile Cloud Computing | [PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Mobile%20Cloud%20Computing%20e%20Fog%20Computing.pdf) |
-|24 Mai 2018|Aula Demonstração - CAOS| [PDF]() | - |
+|22 Fev 2019|Apresentação da Disciplina - Metodologia, Conceitos Iniciais, Características Essenciais da Nuvem, Modelos de Serviço, Modelos de Implantação |[Slides Apresentação PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Apresenta%C3%A7%C3%A3o%20da%20Disciplina.pdf) / [Slides Conceitos PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Conceitos%20B%C3%A1sicos%20de%20Nuvem.pdf) | - |
+|01 Mar 2019|Apresentação sobre a Amazon AWS - Principais Serviços e API Rest | [Demo e Principais Serviços AWS](http://aws.amazon.com) / [Slides Rest API PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/AWS%20API.pdf) | [Trabalho AWS](https://github.com/famt/cloud_development_ufc/blob/2019/trabalhos/Especifica%C3%A7%C3%A3oTrabalhoAWS.pdf)| - |
+|08 Mar 2019|Aula sobre Elasticidade / Amazon Auto Scalling Groups | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Elasticidade.pdf) | - |
+|15 Mar 2019| Aula sobre PaaS + Bancos Nuvem | - | - |
+|22 Mar 2019| Aula sobre Virtualização + Entrega de Projetos | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Virtualizacao.pdf) | - |
+|29 Mar 2019| Aula sobre Open Source | [PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/OpenSourceCloud.pdf) | - |
+|05 Abr 2019| Aula sobre Desafios Eng. Software na Nuvem (avaliar assunto para as 2h finais) | - | - |
+|12 Abr 2019| SaaS - Heroku/Algorithmia | - | - |
+|19 Abr 2019| FERIADO - SEMANA SANTA | - | - |
+|26 Abr 2019| PROVA | [Slides Exercícios PDF](https://github.com/famt/cloud_development_ufc/blob/2019/exercicios/Exerc%C3%ADcios%20de%20Revis%C3%A3o%202018.pdf) | [ED PDF](https://github.com/famt/cloud_development_ufc/blob/master/provas/Prova1.pdf) |
+|03 Mai 2019| Map/Reduce/Spark Amazon/OpenStack | - | - |
+|10 Mai 2019| Microsserviços e Containers | - | - |
+|17 Mai 2019| Microsserviços e Containers - OpenStack/Amazon/Google | - | - |
+|24 Mai 2019| IoT + Fog + Mobile Cloud Computing | - | - |
+|31 Mai 2019| Seminários | - | - |
+|07 Mai 2019| Trabalhos | - | - |
