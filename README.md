@@ -15,8 +15,8 @@
 
 ### Local
 
-Departamento de Computação, horários: Sexta (80:00-12:00), Bloco ???, Sala ??.
-Aulas práticas, quando ocorreram, serão no Lab LEC.
+Departamento de Computação, horários: Sexta (08:00-12:00), Bloco 952, Sala 01.
+Aulas práticas: a decidir.
 
 ### Edições passadas
 
