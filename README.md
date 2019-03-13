@@ -64,6 +64,10 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [AWS Tutoriais](https://aws.amazon.com/pt/getting-started/tutorials/)
 - [Google Cloud Platform Tutorais](https://cloud.google.com/docs/tutorials)
 - [Microsoft Azure Tutoriais](https://azure.microsoft.com/pt-br/get-started/)
+- [EC2 Getting Started](https://aws.amazon.com/pt/ec2/getting-started/)
+- [S3 Getting Started](https://aws.amazon.com/pt/s3/getting-started/?nc=sn&loc=5&dn=1)
+- [RDS Getting Started](https://aws.amazon.com/pt/rds/resources/)
+- [DynamoDB Getting Started](https://aws.amazon.com/pt/dynamodb/getting-started/)
 
 ### Business Cases
 
