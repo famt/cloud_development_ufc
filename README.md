@@ -111,7 +111,7 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 |:-------------:|-----------------------------|:---------:|:-----------:|
 |22 Fev 2019|Apresentação da Disciplina - Metodologia, Conceitos Iniciais, Características Essenciais da Nuvem, Modelos de Serviço, Modelos de Implantação |[Slides Apresentação PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Apresenta%C3%A7%C3%A3o%20da%20Disciplina.pdf) / [Slides Conceitos PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Conceitos%20B%C3%A1sicos%20de%20Nuvem.pdf) | - |
 |01 Mar 2019|Apresentação sobre a Amazon AWS - Principais Serviços e API Rest | [Demo e Principais Serviços AWS](http://aws.amazon.com) / [Slides Rest API PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/AWS%20API.pdf) | [Trabalho AWS](https://github.com/famt/cloud_development_ufc/blob/2019/trabalhos/Especifica%C3%A7%C3%A3oTrabalhoAWS.pdf)| - |
-|08 Mar 2019|Aula sobre Elasticidade / Amazon Auto Scalling Groups | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Elasticidade.pdf) | - |
+|08 Mar 2019|Aula sobre Elasticidade / Amazon Auto Scalling Groups | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Elasticidade.pdf) / [Vídeo Tutorial ASG](https://www.youtube.com/watch?v=DcrV9c8VM7o&feature=youtu.be) | - |
 |15 Mar 2019| Aula sobre PaaS + Bancos Nuvem | - | - |
 |22 Mar 2019| Aula sobre Virtualização + Entrega de Projetos | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Virtualizacao.pdf) | - |
 |29 Mar 2019| Aula sobre Open Source | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/OpenSourceCloud.pdf) | - |
