@@ -116,14 +116,14 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 |22 Fev 2019|Apresentação da Disciplina - Metodologia, Conceitos Iniciais, Características Essenciais da Nuvem, Modelos de Serviço, Modelos de Implantação |[Slides Apresentação PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%201%20-%20Apresenta%C3%A7%C3%A3o%20da%20Disciplina.pdf) / [Slides Conceitos PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%201%20-%20Conceitos%20B%C3%A1sicos%20de%20Nuvem.pdf) | - |
 |01 Mar 2019|Apresentação sobre a Amazon AWS - Principais Serviços e API Rest | [Demo e Principais Serviços AWS](http://aws.amazon.com) / [Slides AWS PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%202%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20AWS.pdf) | [Trabalho AWS](https://github.com/famt/cloud_development_ufc/blob/2019/trabalhos/Especifica%C3%A7%C3%A3o%20Trabalho%20AWS%20-%20Desenvolvimento%20para%20Nuvem.pdf)| - |
 |08 Mar 2019|Aula sobre Elasticidade / Amazon Auto Scalling Groups | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%203%20-Elasticidade.pdf) / [Vídeo Tutorial ASG](https://www.youtube.com/watch?v=DcrV9c8VM7o&feature=youtu.be) | - |
-|15 Mar 2019| Aula sobre PaaS + Bancos Nuvem | [Slides PDF] (https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%204%20-%20Google%20Cloud%20Platform.pdf) | - |
+|15 Mar 2019| Aula sobre PaaS + Bancos Nuvem | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%204%20-%20Google%20Cloud%20Platform.pdf) | - |
 |22 Mar 2019| Aula sobre Virtualização + Entrega de Projetos | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%205%20-%20Virtualizacao.pdf) | - |
 |29 Mar 2019| Aula sobre Open Source | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%206%20-%20OpenSourceCloud.pdf) | - |
 |05 Abr 2019| Aula sobre Desafios Eng. Software na Nuvem (avaliar assunto para as 2h finais) | - | - |
 |12 Abr 2019| SaaS - Heroku/Algorithmia | - | - |
 |19 Abr 2019| FERIADO - SEMANA SANTA | - | - |
 |26 Abr 2019| PROVA | [Exercícios PDF](https://github.com/famt/cloud_development_ufc/blob/2019/exercicios/Exerc%C3%ADcios%20de%20Revis%C3%A3o%202018.pdf) | [ED PDF](https://github.com/famt/cloud_development_ufc/blob/master/provas/Prova1.pdf) |
-|03 Mai 2019| Map/Reduce/Spark Amazon/OpenStack | [Slides PDF] (https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%2011%20-%20MapReduce.pdf) | - |
+|03 Mai 2019| Map/Reduce/Spark Amazon/OpenStack | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%2011%20-%20MapReduce.pdf) | - |
 |10 Mai 2019| Microsserviços e Containers | - | - |
 |17 Mai 2019| Microsserviços e Containers - OpenStack/Amazon/Google | - | - |
 |24 Mai 2019| IoT + Fog + Mobile Cloud Computing | - | - |
