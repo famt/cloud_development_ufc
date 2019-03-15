@@ -10,7 +10,7 @@
 ### Instrutores
 
 * **Professor** - Fernando Trinta ([fernando.trinta@dc.ufc.br](mailto:fernando.trinta@dc.ufc.br))
-* **Professor** - Paulo Antônio ([pauloalr@ufc.br](mailto:pauloalr@ufc.br))
+* **Professor** - Paulo A L Rego ([pauloalr@ufc.br](mailto:pauloalr@ufc.br))
 * **Assistente de Ensino** - Lucas de Andrade Fernandes, ([lucas.andrade.ufc@gmail.com](mailto:lucas.andrade.ufc@gmail.com))
 
 ### Local
