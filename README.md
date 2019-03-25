@@ -64,10 +64,11 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [AWS Tutoriais](https://aws.amazon.com/pt/getting-started/tutorials/)
 - [Google Cloud Platform Tutorais](https://cloud.google.com/docs/tutorials)
 - [Microsoft Azure Tutoriais](https://azure.microsoft.com/pt-br/get-started/)
-- [EC2 Getting Started](https://aws.amazon.com/pt/ec2/getting-started/)
-- [S3 Getting Started](https://aws.amazon.com/pt/s3/getting-started/?nc=sn&loc=5&dn=1)
-- [RDS Getting Started](https://aws.amazon.com/pt/rds/resources/)
-- [DynamoDB Getting Started](https://aws.amazon.com/pt/dynamodb/getting-started/)
+- [Getting Started EC2](https://aws.amazon.com/pt/ec2/getting-started/)
+- [Getting Started S3](https://aws.amazon.com/pt/s3/getting-started/?nc=sn&loc=5&dn=1)
+- [Getting Started RDS](https://aws.amazon.com/pt/rds/resources/)
+- [Getting Started DynamoDB](https://aws.amazon.com/pt/dynamodb/getting-started/)
+- [Getting Started Google Cloud Plataform](https://cloud.google.com/gcp/getting-started/)
 
 ### Business Cases
 
@@ -116,7 +117,7 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 |22 Fev 2019|Apresentação da Disciplina - Metodologia, Conceitos Iniciais, Características Essenciais da Nuvem, Modelos de Serviço, Modelos de Implantação |[Slides Apresentação PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%201%20-%20Apresenta%C3%A7%C3%A3o%20da%20Disciplina.pdf) / [Slides Conceitos PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%201%20-%20Conceitos%20B%C3%A1sicos%20de%20Nuvem.pdf) | - |
 |01 Mar 2019|Apresentação sobre a Amazon AWS - Principais Serviços e API Rest | [Demo e Principais Serviços AWS](http://aws.amazon.com) / [Slides AWS PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%202%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20AWS.pdf) | [Trabalho AWS](https://github.com/famt/cloud_development_ufc/blob/2019/trabalhos/Especifica%C3%A7%C3%A3o%20Trabalho%20AWS%20-%20Desenvolvimento%20para%20Nuvem.pdf) | - |
 |08 Mar 2019|Aula sobre Elasticidade / Amazon Auto Scalling Groups | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%203%20-Elasticidade.pdf) / [Vídeo Tutorial ASG](https://www.youtube.com/watch?v=DcrV9c8VM7o&feature=youtu.be) | - |
-|15 Mar 2019| Aula sobre PaaS + Bancos Nuvem | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%204%20-%20Google%20Cloud%20Platform.pdf) | [Trabalho PaaS](https://github.com/famt/cloud_development_ufc/blob/2019/trabalhos/TrabalhoPaaS.pdf) |
+|15 Mar 2019| Aula sobre PaaS + Bancos Nuvem | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%204%20-%20Google%20Cloud%20Platform.pdf) | [Trabalho PaaS](https://github.com/famt/cloud_development_ufc/blob/2019/trabalhos/Especifica%C3%A7%C3%A3o%20Trabalho%20PaaS-%20Desenvolvimento%20para%20Nuvem.pdf) |
 |22 Mar 2019| Aula sobre Virtualização e Open Source | [Slides PDF Virtualização](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%205%20-%20Virtualizacao.pdf) / [Slides PDF OpenPaaS](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%206%20-%20OpenSourceCloud.pdf) | [Trabalho OpenPaaS](https://github.com/famt/cloud_development_ufc/blob/2019/trabalhos/TrabalhoOpenPaaS.pdf) |
 |29 Mar 2019| Aula sobre Desafios Eng. Software na Nuvem | [Links Úteis](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Links%20Desafios%20da%20Eng.%20de%20Software.txt) | - |
 |05 Abr 2019| Entrega de Trabalhos AWS | - | - |
