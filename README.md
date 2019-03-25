@@ -118,8 +118,8 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 |08 Mar 2019|Aula sobre Elasticidade / Amazon Auto Scalling Groups | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%203%20-Elasticidade.pdf) / [Vídeo Tutorial ASG](https://www.youtube.com/watch?v=DcrV9c8VM7o&feature=youtu.be) | - |
 |15 Mar 2019| Aula sobre PaaS + Bancos Nuvem | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%204%20-%20Google%20Cloud%20Platform.pdf) | [Trabalho PaaS](https://github.com/famt/cloud_development_ufc/blob/2019/trabalhos/TrabalhoPaaS.pdf) |
 |22 Mar 2019| Aula sobre Virtualização e Open Source | [Slides PDF Virtualização](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%205%20-%20Virtualizacao.pdf) / [Slides PDF OpenPaaS](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%206%20-%20OpenSourceCloud.pdf) | [Trabalho OpenPaaS](https://github.com/famt/cloud_development_ufc/blob/2019/trabalhos/TrabalhoOpenPaaS.pdf) |
-|29 Mar 2019| Aula sobre Desafios Eng. Software na Nuvem | [Links Úteis] (https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Links%20Desafios%20da%20Eng.%20de%20Software.txt) | - |
-|05 Abr 2019| Aula sobre Desafios Eng. Software na Nuvem | [Links Úteis] (https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Links%20Desafios%20da%20Eng.%20de%20Software.txt) | - |
+|29 Mar 2019| Aula sobre Desafios Eng. Software na Nuvem | [Links Úteis](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Links%20Desafios%20da%20Eng.%20de%20Software.txt) | - |
+|05 Abr 2019| Aula sobre Desafios Eng. Software na Nuvem | [Links Úteis](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Links%20Desafios%20da%20Eng.%20de%20Software.txt) | - |
 |12 Abr 2019| SaaS - Heroku/Algorithmia | - | - |
 |19 Abr 2019| FERIADO - SEMANA SANTA | - | - |
 |26 Abr 2019| PROVA | [Exercícios PDF](https://github.com/famt/cloud_development_ufc/blob/2019/exercicios/Exerc%C3%ADcios%20de%20Revis%C3%A3o%202018.pdf) | [ED PDF](https://github.com/famt/cloud_development_ufc/blob/master/provas/Prova1.pdf) |
