@@ -1,0 +1,26 @@
+Software Engineering for the Cloud: A Research Roadmap
+https://ieeexplore.ieee.org/document/6337860
+
+
+Capitulo 9 do Livro Essentials of Cloud Computing
+https://www.amazon.com.br/Essentials-Cloud-Computing-English-Chandrasekaran-ebook/dp/B00QFFY75S/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=essentials+of+cloud+computing&qid=1553528496&s=gateway&sr=8-5
+
+
+Outros Links
+
+Software Enginnering and the Cloud
+https://opencirrus.org/software-engineering-and-the-cloud/
+
+The Impact of the Cloud on Software Development
+https://www.developer.com/cloud/the-impact-of-the-cloud-on-software-development.html
+
+
+Podcast - The benefits of cloud computing for software development
+https://searchcloudcomputing.techtarget.com/podcast/The-benefits-of-cloud-computing-for-software-development
+
+
+Software Development In The Cloud: Benefits And Challenges
+http://techgenix.com/software-development-in-the-cloud/
+
+Developing for the cloud: How developing in the cloud is different
+(https://www.theserverside.com/feature/Developing-for-the-Cloud-How-Developing-in-the-Cloud-is-Different)
