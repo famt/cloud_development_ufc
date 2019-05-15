@@ -1,4 +1,4 @@
-
+﻿
 
 # CK0205 - Desenvolvimento de Software para Nuvem
 
@@ -125,8 +125,8 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 |19 Abr 2019| FERIADO - SEMANA SANTA | - | - |
 |26 Abr 2019| PROVA | [Exercícios PDF](https://github.com/famt/cloud_development_ufc/blob/2019/exercicios/Exerc%C3%ADcios%20de%20Revis%C3%A3o%202018.pdf) | [ED PDF](https://github.com/famt/cloud_development_ufc/blob/master/provas/Prova1.pdf) |
 |03 Mai 2019| Map/Reduce/Spark Amazon/OpenStack | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/2019/aulas/Aula%2011%20-%20MapReduce.pdf) | - |
-|10 Mai 2019| Microsserviços e Containers | - | - |
-|17 Mai 2019| Microsserviços e Containers - OpenStack/Amazon/Google | - | - |
-|24 Mai 2019| IoT + Fog + Mobile Cloud Computing | - | - |
+|10 Mai 2019| Map/Reduce/Spark Amazon/OpenStack | - | - |
+|17 Mai 2019| IoT + Fog + Mobile Cloud Computing | - | - |
+|24 Mai 2019| Microsserviços e Containers - OpenStack/Amazon/Google | - | - |
 |31 Mai 2019| Seminários | - | - |
 |07 Jun 2019| Trabalhos | - | - |
