@@ -133,4 +133,4 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 |15 Mai 2018|Turma Liberada para Conclusão de Projeto| - | - |
 |17 Mai 2018|Entrega de Notas da Avaliação 1| - | - |
 |22 Mai 2018| Mobile Cloud Computing | [PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Mobile%20Cloud%20Computing%20e%20Fog%20Computing.pdf) |
-|24 Mai 2018|Aula Demonstração - CAOS| [PDF]() | - |
+|24 Mai 2018|Aula Demonstração - CAOS| - | - |
