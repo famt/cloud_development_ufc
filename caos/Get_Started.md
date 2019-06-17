@@ -4,7 +4,7 @@ Everything you need to start developing apps for CAOS is available here. The CAO
 ## Dependencies
 Before any action, you must install the necessary dependencies to run on the server. Install the following programs:
 
-* Java (JDK) (http://www.oracle.com/technetwork/pt/java/javase/downloads/index.html) (version: 1.7+)
+* Java (JDK) (http://www.oracle.com/technetwork/pt/java/javase/downloads/index.html) (version: 1.8)
 * PostgreSQL (https://www.postgresql.org/download/) (version: 9.4)
 * VirtualBox (https://www.virtualbox.org/wiki/Downloads) (version: 5.2)
 * Android SDK (https://developer.android.com/studio/index.html#downloads) (version: 19+)
