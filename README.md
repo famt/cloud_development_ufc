@@ -2,24 +2,24 @@
 
 # CK0205 - Desenvolvimento de Software para Nuvem
 
-(Também CKP8422 - Topicos Especiais Em Redes E Sist. Distribuidos II)
-
+(Essa disciplina já foi oferecida como CKP8422 - Topicos Especiais Em Redes E Sist. Distribuidos II)
 
 ## Ciência da Computação, [Departamento de Computação](http://www.dc.ufc.br), ([UFC](http://www.ufc.br))
 
 ### Instrutores
 
 * **Professor** - Fernando Trinta ([fernando.trinta@dc.ufc.br](mailto:fernando.trinta@dc.ufc.br))
-* **Assistente de Ensino** - Francisco Anderson de Almada Gomes, ([andersonalmadagomes@gmail.com](mailto:andersonalmadagomes@gmail.com))
+* **Professor** - Paulo Rêgo ([pauloalr@dc.ufc.br](mailto:pauloalr@dc.ufc.br))
 
 ### Local
 
-Departamento de Computação, horários: Terça e Quintas (10:00-12:00), Bloco 950, Sala 05.
-Aulas práticas, quando ocorreram, serão no Lab LEC.
+Bloco 942-A (GREat), Terça e Quintas (14:00-16:00), Sala Lagoinha.
+
 
 ### Edições passadas
 
 - Edições passadas à 2018.1, apenas no SigaA.
+- A partir de 2019, as edições anteriores podem ser acessadas de acordo com seus respectivos branches.
 
 ### Ementa
 
@@ -108,29 +108,44 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 
 | Aulas       | Tópicos                      | Recursos | Tarefas |
 |:-------------:|-----------------------------|:---------:|:-----------:|
-|22 Fev 2018|Apresentação da Disciplina|[Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Apresenta%C3%A7%C3%A3o%20da%20Disciplina.pdf) | - |
-|27 Fev 2018|Conceitos Básicos de Computação em Nuvem| [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Conceitos%20B%C3%A1sicos%20de%20Nuvem.pdf) | - |
-|01 Mar 2018|Conceitos Básicos de Computação em Nuvem|[Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Conceitos%20B%C3%A1sicos%20de%20Nuvem.pdf) | - |
-|06 Mar 2018|Amazon AWS Demo| (http://aws.amazon.com) | - |
-|08 Mar 2018|AWS - Principais Serviços | (http://aws.amazon.com) | - |
-|13 Mar 2018|AWS Rest API | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/AWS%20API.pdf) | [Trabalho AWS](https://github.com/famt/cloud_development_ufc/blob/master/trabalhos/Especifica%C3%A7%C3%A3oTrabalhoAWS.pdf) |
-|15 Mar 2018|Elasticidade | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Virtualizacao.pdf) | - |
-|15 Mar 2018|Elasticidade | [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Virtualizacao.pdf) | - |
-|22 Fev 2018|Google Cloud Platform|[Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/GAE%20API.pdf) | [Trabalho GAE](https://github.com/famt/cloud_development_ufc/blob/master/trabalhos/Especificac%CC%A7a%CC%83o%20Trabalho_GCP.pdf.pdf) |
-|27 Mar 2018|Virtualização|[Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Virtualizacao.pdf) | - |
-|29 Mar 2018|Semana Santa| - | - |
-|03 Abr 2018|Amazon Auto Scalling Groups| - | - |
-|05 Abr 2018|Revisão para Prova| [Slides PDF](https://github.com/famt/cloud_development_ufc/blob/master/exercicios/Exerc%C3%ADcios%20de%20Revis%C3%A3o%202018.pdf) | - |
-|10 Abr 2018|Primeira Avaliação| [PDF](https://github.com/famt/cloud_development_ufc/blob/master/provas/Prova1.pdf) | - |
-|12 Abr 2018|Turma Liberada para Conclusão de Projeto| - | - |
-|17 Abr 2018|Apresentação dos Projetos| - | - |
-|24 Abr 2018|MultiTenancy| [PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/MultiInquilino.pdf) | - |
-|26 Abr 2018|Open Source Cloud| - | [PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/OpenSourceCloud.pdf) |
-|01 Mai 2018|Feriado (Dia do Trabalho)| - | - |
-|03 Mai 2018|Demonstração OpenStack| - | - |
-|08 Mai 2018|Desafios na Integração Nuvem + ES | - | - |
-|10 Mai 2018|Desafios na Integração Nuvem + ES (cont)| - | - |
-|15 Mai 2018|Turma Liberada para Conclusão de Projeto| - | - |
-|17 Mai 2018|Entrega de Notas da Avaliação 1| - | - |
-|22 Mai 2018| Mobile Cloud Computing | [PDF](https://github.com/famt/cloud_development_ufc/blob/master/aulas/Mobile%20Cloud%20Computing%20e%20Fog%20Computing.pdf) |
-|24 Mai 2018|Aula Demonstração - CAOS| - | - |
+|18 Fev 2020| Apresentação da Disciplina | - | - |
+|20 Fev 2020| Não haverá aula | - | - |
+|25 Fev 2020| Carnaval | - | - |
+|27 Fev 2020| Conceito Básicos sobre Nuvem | - | - |
+|04 Mar 2020| Caso de Estudo Núvem Pública: AWS | - | - |
+|06 Mar 2020| Amazon AWS Restfull API | (http://aws.amazon.com) | - |
+|11 Mar 2020| Nuvens Privadas Open Source | - | - |
+|13 Mar 2020| Estudo de Caso: OpenStack | - | - |
+|18 Mar 2020| Elasticidade | - | - |
+|20 Mar 2020| Elasticidade na prática: Auto Scalling Groups | - | - |
+|25 Mar 2020| Feriado Estadual - Data Magna do Ceará | - | - |
+|27 Mar 2020| Entrega de Trabalho I - AWS | - | - |
+|01 Abr 2020| Encontros Universitários 2019 | - | - |
+|03 Abr 2020| Encontros Universitários 2019 | - | - |
+|08 Abr 2020| Plataforma como Serviço  | - | - |
+|10 Abr 2020| Semana Santa | - | - |
+|15 Abr 2020| Software como Serviço | - | - |
+|17 Abr 2020| Desafios de Engenharia de Software para Nuvem  | - | - |
+|22 Abr 2020| Virtualização | - | - |
+|24 Abr 2020| Containers e Microserviços | - | - |
+|29 Abr 2020| Prática - Kubernets/Docker | - | - |
+|01 Mai 2020| Feriado Nacional - Dia do Trabalho | - | - |
+|06 Mai 2020| Revisão - Avaliação Escrita | - | - |
+|08 Mai 2020| Prova Escrita | - | - |
+|13 Mai 2020| Processamento Intensivo (Map/Reduce) | - | - |
+|15 Mai 2020| Aula Prática - Elastic Map Reduce | - | - |
+|20 Mai 2020| Ambientes Multicloud | - | - |
+|25 Mai 2020| Integração Mobile + Nuvem | - | - |
+|27 Mai 2020| Estudo de Caso: CAOS MS | - | - |
+|01 Jun 2020| a definir | - | - |
+|03 Jun 2020| a definir | - | - |
+|08 Jun 2020| a definir | - | - |
+|10 Jun 2020| a definir | - | - |
+|15 Jun 2020| a definir | - | - |
+|17 Jun 2020| a definir | - | - |
+|22 Jun 2020| a definir | - | - |
+|24 Jun 2020| a definir | - | - |
+|29 Jun 2020| a definir | - | - |
+|01 Jul 2020| a definir | - | - |
+|06 Jul 2020| Prazo Final para Consolidação de Notas | - | - |
+ 
