@@ -95,12 +95,29 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 
 #### Glossário de Ferramentas
 
+* [Amazon AWS](http://aws.amazon.com/)
+* [Google Cloud Platform](http://cloud.google.com/)
+* [OpenStack](http://www.openstack.org/)
+* [Kubernetes](https://kubernetes.io/)
 
-#### Referências de outros cursos correlatos
 
+[comment] : #### Referências de outros cursos correlatos
 
 
 ### Avaliação
+
+
+A avaliação será feita a partir da realização de uma prova escrita (PE) e da realização de trabalhos práticos nos assuntos das disciplinas. Serão realizados os seguintes trabalhos:
+
+T1 = Aplicação Web com Amazon AWS + Escalabilidade
+T2 = Aplicação Web em uma plataforma opensource ou PAAS (a escolha do aluno)
+T3 = Uso de Map/Reduce para processamento intensivo de Dados
+T4 = Desenvolvimento/Implantação de uma aplicação com Docker/Kubernetes
+T5 = Aplicação Móvel com CAOS MS (Opcional para quem quiser melhorar nota)
+
+A Nota final será calculada com base na Fórmula **NF = {Prova + [(T1 + ... + T4)/5 + T5]}/2**
+
+Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final escrita sobre todo o conteúdo da disciplina.
 
 
 ### Plano de aulas
