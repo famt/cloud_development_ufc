@@ -101,8 +101,6 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 * [Kubernetes](https://kubernetes.io/)
 
 
-[comment] : #### Referências de outros cursos correlatos
-
 
 ### Avaliação
 
