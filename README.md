@@ -113,7 +113,7 @@ A avaliação será feita a partir da realização de uma prova escrita (PE) e d
 * T4 = Desenvolvimento/Implantação de uma aplicação com Docker/Kubernetes
 * T5 = Aplicação Móvel com CAOS MS (Opcional para quem quiser melhorar nota)
 
-A Nota final será calculada com base na Fórmula **NF = {Prova + [(T1 + ... + T4)/5 + T5]}/2**
+A Nota final será calculada com base na Fórmula **NF = {Prova + [(T1 + ... + T4)/4 + T5]}/2**
 
 Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final escrita sobre todo o conteúdo da disciplina.
 
@@ -123,7 +123,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 
 | Aulas       | Tópicos                      | Recursos | Tarefas |
 |:-------------:|-----------------------------|:---------:|:-----------:|
-|18 Fev 2020| Apresentação da Disciplina | - | - |
+|18 Fev 2020| Apresentação da Disciplina | [Slides](https://docs.google.com/presentation/d/1VqJDR1fjlsLJw9cwZfLd74rARmFjHDPOE0fVNH8A17Y/edit?usp=sharing) | - |
 |20 Fev 2020| Não haverá aula | - | - |
 |25 Fev 2020| Carnaval | - | - |
 |27 Fev 2020| Conceito Básicos sobre Nuvem | - | - |
