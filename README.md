@@ -127,40 +127,41 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |20 Fev 2020| Não haverá aula | - | - |
 |25 Fev 2020| Carnaval | - | - |
 |27 Fev 2020| Conceito Básicos sobre Nuvem | - | - |
-|04 Mar 2020| Caso de Estudo Núvem Pública: AWS | - | - |
-|06 Mar 2020| Amazon AWS Restfull API | (http://aws.amazon.com) | - |
-|11 Mar 2020| Nuvens Privadas Open Source | - | - |
-|13 Mar 2020| Estudo de Caso: OpenStack | - | - |
-|18 Mar 2020| Elasticidade | - | - |
-|20 Mar 2020| Elasticidade na prática: Auto Scalling Groups | - | - |
-|25 Mar 2020| Feriado Estadual - Data Magna do Ceará | - | - |
-|27 Mar 2020| Entrega de Trabalho I - AWS | - | - |
-|01 Abr 2020| Encontros Universitários 2019 | - | - |
-|03 Abr 2020| Encontros Universitários 2019 | - | - |
-|08 Abr 2020| Plataforma como Serviço  | - | - |
-|10 Abr 2020| Semana Santa | - | - |
-|15 Abr 2020| Software como Serviço | - | - |
-|17 Abr 2020| Desafios de Engenharia de Software para Nuvem  | - | - |
-|22 Abr 2020| Virtualização | - | - |
-|24 Abr 2020| Containers e Microserviços | - | - |
-|29 Abr 2020| Prática - Kubernets/Docker | - | - |
-|01 Mai 2020| Feriado Nacional - Dia do Trabalho | - | - |
-|06 Mai 2020| Revisão - Avaliação Escrita | - | - |
-|08 Mai 2020| Prova Escrita | - | - |
-|13 Mai 2020| Processamento Intensivo (Map/Reduce) | - | - |
-|15 Mai 2020| Aula Prática - Elastic Map Reduce | - | - |
-|20 Mai 2020| Ambientes Multicloud | - | - |
-|25 Mai 2020| Integração Mobile + Nuvem | - | - |
-|27 Mai 2020| Estudo de Caso: CAOS MS | - | - |
-|01 Jun 2020| a definir | - | - |
-|03 Jun 2020| a definir | - | - |
-|08 Jun 2020| a definir | - | - |
-|10 Jun 2020| a definir | - | - |
-|15 Jun 2020| a definir | - | - |
-|17 Jun 2020| a definir | - | - |
-|22 Jun 2020| a definir | - | - |
-|24 Jun 2020| a definir | - | - |
-|29 Jun 2020| a definir | - | - |
-|01 Jul 2020| a definir | - | - |
+|03 Mar 2020| Caso de Estudo Núvem Pública: AWS | - | - |
+|05 Mar 2020| Amazon AWS Restfull API | (http://aws.amazon.com) | - |
+|10 Mar 2020| Nuvens Privadas Open Source | - | - |
+|12 Mar 2020| Estudo de Caso: OpenStack | - | - |
+|17 Mar 2020| Elasticidade | - | - |
+|19 Mar 2020| Feriado Estadual - Dia de São José | - | - |
+|24 Mar 2020| Elasticidade na prática: Auto Scalling Groups | - | - |
+|26 Mar 2020| Entrega de Trabalho I - AWS | - | - |
+|31 Mar 2020| Software como Serviço | - | - |
+|02 Abr 2020| Encontros Universitários 2019 | - | - |
+|07 Abr 2020| Plataforma como Serviço  | - | - |
+|09 Abr 2020| Semana Santa | - | - |
+|14 Abr 2020| Desafios de Engenharia de Software para Nuvem  | - | - |
+|16 Abr 2020| Virtualização | - | - |
+|21 Abr 2020| Feriado Nacional - Tiradentes | - | - |
+|23 Abr 2020| Containers e Microserviços | - | - |
+|28 Abr 2020| Prática - Kubernets/Docker | - | - |
+|30 Mai 2020| Revisão - Avaliação Escrita | - | - |
+|05 Mai 2020| Prova Escrita | - | - |
+|07 Mai 2020| Processamento Intensivo (Map/Reduce) | - | - |
+|12 Mai 2020| Aula Prática - Elastic Map Reduce | - | - |
+|14 Mai 2020| Ambientes Multicloud | - | - |
+|19 Mai 2020| Integração Mobile + Nuvem | - | - |
+|21 Mai 2020| Estudo de Caso: CAOS MS | - | - |
+|26 Mai 2020| a definir | - | - |
+|28 Jun 2020| a definir | - | - |
+|02 Jun 2020| a definir | - | - |
+|04 Jun 2020| a definir | - | - |
+|09 Jun 2020| a definir | - | - |
+|11 Jun 2020| a definir | - | - |
+|16 Jun 2020| a definir | - | - |
+|18 Jun 2020| a definir | - | - |
+|23 Jun 2020| a definir | - | - |
+|25 Jun 2020| a definir | - | - |
+|30 Jun 2020| a definir | - | - |
+|02 Jul 2020| a definir | - | - |
 |06 Jul 2020| Prazo Final para Consolidação de Notas | - | - |
  
