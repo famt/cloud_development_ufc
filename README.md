@@ -124,7 +124,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 | Aulas       | Tópicos                      | Recursos | Tarefas |
 |:-------------:|-----------------------------|:---------:|:-----------:|
 |18 Fev 2020| Apresentação da Disciplina | [Slides](https://docs.google.com/presentation/d/1VqJDR1fjlsLJw9cwZfLd74rARmFjHDPOE0fVNH8A17Y/edit?usp=sharing) | - |
-|20 Fev 2020| Não haverá aula | - | - |
+|20 Fev 2020| Não haverá aula | [Slides](https://docs.google.com/presentation/d/1LIIyQNGq1xrtX1F3COG2g-70yFr8LzdJKtoo_KmIXTo/edit?usp=sharing) | - |
 |25 Fev 2020| Carnaval | - | - |
 |27 Fev 2020| Conceito Básicos sobre Nuvem | - | - |
 |03 Mar 2020| Caso de Estudo Núvem Pública: AWS | - | - |
