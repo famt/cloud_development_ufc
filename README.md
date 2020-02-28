@@ -137,9 +137,9 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |19 Mar 2020| Feriado Estadual - Dia de São José | - | - |
 |24 Mar 2020| Elasticidade na prática: Auto Scalling Groups | - | - |
 |26 Mar 2020| Entrega de Trabalho I - AWS | - | - |
-|31 Mar 2020| Software como Serviço | - | - |
+|31 Mar 2020| Plataforma como Serviço | - | - |
 |02 Abr 2020| Encontros Universitários 2019 | - | - |
-|07 Abr 2020| Plataforma como Serviço  | - | - |
+|07 Abr 2020| Software como Serviço  | - | - |
 |09 Abr 2020| Semana Santa | - | - |
 |14 Abr 2020| Desafios de Engenharia de Software para Nuvem  | - | - |
 |16 Abr 2020| Virtualização | - | - |
