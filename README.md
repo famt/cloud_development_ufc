@@ -130,9 +130,9 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 | | | | [Artigo Definições sobre CC](http://www.sigcomm.org/node/2749) |
 | | | | [Caps 2, 4 e 5 - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
 |03 Mar 2020| Caso de Estudo Núvem Pública: AWS | [Slides](https://docs.google.com/presentation/d/1TToinfxBdRqmmYpUxjk13sPP5HxlLuC1l92nNgte1No/edit?usp=sharing) | (http://aws.amazon.com) |
-|05 Mar 2020| Amazon AWS Restfull API | - | [Trabalho Prático 1 - AWS]() |
+|05 Mar 2020| Amazon AWS Restfull API | - | [Trabalho Prático 1 - AWS](https://github.com/famt/cloud_development_ufc/blob/2020/trabalhos/T1-TrabalhoAWS.pdf) |
 | |  |  | [AWS SDKs](https://aws.amazon.com/pt/tools/) |
-| |  |  | [Exemplo NodeJS]() |
+| |  |  | [Exemplo NodeJS](https://github.com/famt/cloud_development_ufc/blob/2020/exemplos/aws_2020.zip) |
 |10 Mar 2020| Nuvens Privadas Open Source | - | - |
 |12 Mar 2020| Estudo de Caso: OpenStack | - | - |
 |17 Mar 2020| Elasticidade | - | - |
