@@ -64,10 +64,6 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Google Cloud Platform Tutorais](https://cloud.google.com/docs/tutorials)
 - [Microsoft Azure Tutoriais](https://azure.microsoft.com/pt-br/get-started/)
 
-### Business Cases
-
-
-
 ### Objetivos
 
  - Objetivo Geral
@@ -133,7 +129,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |05 Mar 2020| Amazon AWS Restfull API | - | [Trabalho Prático 1 - AWS](https://github.com/famt/cloud_development_ufc/blob/2020/trabalhos/T1-TrabalhoAWS.pdf) |
 | |  |  | [AWS SDKs](https://aws.amazon.com/pt/tools/) |
 | |  |  | [Exemplo NodeJS](https://github.com/famt/cloud_development_ufc/blob/2020/exemplos/aws_2020.zip)  |
-|10 Mar 2020| Nuvens Privadas Open Source | - | - |
+|10 Mar 2020| Soluções Open Source para Nuvens Privadas | [Slides](https://docs.google.com/presentation/d/1AsFHOm1WkQUfTOhv1uIBql5Orzn_a0mi4pJpMGNRbOY/edit?usp=sharing) | [Cap. 12 (Open Source Support for Cloud) - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
 |12 Mar 2020| Estudo de Caso: OpenStack | - | - |
 |17 Mar 2020| Elasticidade | - | - |
 |19 Mar 2020| Feriado Estadual - Dia de São José | - | - |
