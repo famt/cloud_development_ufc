@@ -131,7 +131,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 | |  |  | [Exemplo NodeJS](https://github.com/famt/cloud_development_ufc/blob/2020/exemplos/aws_2020.zip)  |
 |10 Mar 2020| Soluções Open Source para Nuvens Privadas | [Slides](https://docs.google.com/presentation/d/1AsFHOm1WkQUfTOhv1uIBql5Orzn_a0mi4pJpMGNRbOY/edit?usp=sharing) | [Cap. 12 (Open Source Support for Cloud) - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
 |12 Mar 2020| Estudo de Caso: OpenStack | - | - |
-|17 Mar 2020| Elasticidade | - | - |
+|17 Mar 2020| Elasticidade | [Slides](https://docs.google.com/presentation/d/1-l8nAf8QyUlkFnfSHP2nsczyWxKj28UNK6G7lZP2L-g/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1GJ4U7YVo_r2XvSNdDEVKQD9_-AcbgBZo/view?usp=sharing) |
 |19 Mar 2020| Feriado Estadual - Dia de São José | - | - |
 |24 Mar 2020| Elasticidade na prática: Auto Scalling Groups | - | - |
 |26 Mar 2020| Entrega de Trabalho I - AWS | - | - |
