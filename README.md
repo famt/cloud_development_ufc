@@ -135,7 +135,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |19 Mar 2020| Feriado Estadual - Dia de São José | - | - |
 |24 Mar 2020| Elasticidade na prática: Auto Scalling Groups | - | [Vídeo-Aula](https://www.youtube.com/watch?v=DcrV9c8VM7o&t=79s) |
 07 Abr 2020| Entrega de Trabalho I - AWS | - | [Planilha de Notas](https://docs.google.com/spreadsheets/d/12CBYpYAFRGJTeTmaOhhkRlYQ9dwjTbt-TZ8IA-nlUhI/edit?usp=sharing) |
-|07 Abr 2020| Plataforma como Serviço | [Slides](https://drive.google.com/open?id=105yo6MJTTBUtthjhoXjf_-mArEimDsIQflEP9UkbjAg) | [Vídeo-Aula](https://drive.google.com/file/d/13f_s4vyan-2FCNgmbryogX0F7DbtdB2J/view?usp=sharing) |
+|07 Abr 2020| Google Cloud Platform | [Slides](https://docs.google.com/presentation/d/105yo6MJTTBUtthjhoXjf_-mArEimDsIQflEP9UkbjAg/edit?usp=sharing) | [Vídeo-Aula 1](https://drive.google.com/file/d/13f_s4vyan-2FCNgmbryogX0F7DbtdB2J/view?usp=sharing) [Vídeo-Aula 2](https://drive.google.com/file/d/1HyWt-Qa2YZEUl7Opj_puxB8hz8ZAv4uo/view?usp=sharing) |
 |02 Abr 2020| Encontros Universitários 2019 | - | - |
 |07 Abr 2020| Software como Serviço  | - | - |
 |09 Abr 2020| Semana Santa | - | - |
