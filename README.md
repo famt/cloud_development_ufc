@@ -9,7 +9,7 @@
 ### Instrutores
 
 * **Professor** - Fernando Trinta ([fernando.trinta@dc.ufc.br](mailto:fernando.trinta@dc.ufc.br))
-* **Professor** - Paulo Rêgo ([pauloalr@dc.ufc.br](mailto:pauloalr@dc.ufc.br))
+* **Professor** - Paulo A L Rego ([paulo@dc.ufc.br](mailto:paulo@dc.ufc.br))
 
 ### Local
 
