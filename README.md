@@ -135,10 +135,9 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |19 Mar 2020| Feriado Estadual - Dia de São José | - | - |
 |24 Mar 2020| Elasticidade na prática: Auto Scalling Groups | - | [Vídeo-Aula](https://www.youtube.com/watch?v=DcrV9c8VM7o&t=79s) |
 07 Abr 2020| Entrega de Trabalho I - AWS | - | [Planilha de Notas](https://docs.google.com/spreadsheets/d/12CBYpYAFRGJTeTmaOhhkRlYQ9dwjTbt-TZ8IA-nlUhI/edit?usp=sharing) |
-|07 Abr 2020| Google Cloud Platform | [Slides](https://docs.google.com/presentation/d/105yo6MJTTBUtthjhoXjf_-mArEimDsIQflEP9UkbjAg/edit?usp=sharing) | [Vídeo-Aula 1](https://drive.google.com/file/d/13f_s4vyan-2FCNgmbryogX0F7DbtdB2J/view?usp=sharing) [Vídeo-Aula 2](https://drive.google.com/file/d/1HyWt-Qa2YZEUl7Opj_puxB8hz8ZAv4uo/view?usp=sharing) |
-|02 Abr 2020| Encontros Universitários 2019 | - | - |
+|07 Abr 2020| Google Cloud Platform | [Slides](https://docs.google.com/presentation/d/105yo6MJTTBUtthjhoXjf_-mArEimDsIQflEP9UkbjAg/edit?usp=sharing) | [Vídeo-Aula 1](https://drive.google.com/file/d/13f_s4vyan-2FCNgmbryogX0F7DbtdB2J/view?usp=sharing) [Vídeo-Aula 2](https://drive.google.com/file/d/1HyWt-Qa2YZEUl7Opj_puxB8hz8ZAv4uo/view?usp=sharing) [Dataset](https://github.com/famt/cloud_development_ufc/raw/2020/exemplos/student-alcohol-consumption.zip) |
+|09 Abr 2020| Google APIs e App Engine | [Slides](https://docs.google.com/presentation/d/1UCAA3-O0VRjfJ4PfStzuF8QJwuMs3LDpGEr5pRJkog8/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1FX0zPHw-Wl9kITfk3YtR2SkFHTWwTAwY/view?usp=sharing) [Colab Notebook](https://colab.research.google.com/drive/1vFoZeQFZzTYnIK11LoHwodUd_S-anQFr) |
 |07 Abr 2020| Software como Serviço  | - | - |
-|09 Abr 2020| Semana Santa | - | - |
 |14 Abr 2020| Desafios de Engenharia de Software para Nuvem  | - | - |
 |16 Abr 2020| Virtualização | - | - |
 |21 Abr 2020| Feriado Nacional - Tiradentes | - | - |
