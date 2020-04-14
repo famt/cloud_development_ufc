@@ -137,12 +137,11 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 07 Abr 2020| Entrega de Trabalho I - AWS | - | [Planilha de Notas](https://docs.google.com/spreadsheets/d/12CBYpYAFRGJTeTmaOhhkRlYQ9dwjTbt-TZ8IA-nlUhI/edit?usp=sharing) |
 |07 Abr 2020| Google Cloud Platform | [Slides](https://docs.google.com/presentation/d/105yo6MJTTBUtthjhoXjf_-mArEimDsIQflEP9UkbjAg/edit?usp=sharing) | [Vídeo-Aula 1](https://drive.google.com/file/d/13f_s4vyan-2FCNgmbryogX0F7DbtdB2J/view?usp=sharing) / [Vídeo-Aula 2](https://drive.google.com/file/d/1HyWt-Qa2YZEUl7Opj_puxB8hz8ZAv4uo/view?usp=sharing) / [Dataset](https://github.com/famt/cloud_development_ufc/raw/2020/exemplos/student-alcohol-consumption.zip) |
 |09 Abr 2020| Google APIs e App Engine | [Slides](https://docs.google.com/presentation/d/1UCAA3-O0VRjfJ4PfStzuF8QJwuMs3LDpGEr5pRJkog8/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1FX0zPHw-Wl9kITfk3YtR2SkFHTWwTAwY/view?usp=sharing) / [Colab Notebook](https://colab.research.google.com/drive/1vFoZeQFZzTYnIK11LoHwodUd_S-anQFr) / [Trabalho Prático 2 - GCP](https://github.com/famt/cloud_development_ufc/blob/2020/trabalhos/T2%20-%20TrabalhoGCP.pdf) |
-|07 Abr 2020| Software como Serviço  | - | - |
-|14 Abr 2020| Desafios de Engenharia de Software para Nuvem  | - | - |
-|16 Abr 2020| Virtualização | - | - |
+|14 Abr 2020| Virtualização | [Slides](https://docs.google.com/presentation/d/1wxvtghuxDr_0wz_ChV2OBj6PLY0NefKAncwEliPb_1k/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1I8G6CKDgGn8Mq1hiujj7pkPLzTbcZrvD/view?usp=sharing) |
+|16 Abr 2020| Containers e Microserviços | - | - |
 |21 Abr 2020| Feriado Nacional - Tiradentes | - | - |
-|23 Abr 2020| Containers e Microserviços | - | - |
-|28 Abr 2020| Prática - Kubernets/Docker | - | - |
+|23 Abr 2020| Prática - Kubernets/Docker | - | - |
+|14 Abr 2020| Desafios de Engenharia de Software para Nuvem  | - | - |
 |30 Mai 2020| Revisão - Avaliação Escrita | - | - |
 |05 Mai 2020| Prova Escrita | - | - |
 |07 Mai 2020| Processamento Intensivo (Map/Reduce) | - | - |
