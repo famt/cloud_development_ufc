@@ -140,7 +140,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |14 Abr 2020| Virtualização | [Slides](https://docs.google.com/presentation/d/1wxvtghuxDr_0wz_ChV2OBj6PLY0NefKAncwEliPb_1k/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1I8G6CKDgGn8Mq1hiujj7pkPLzTbcZrvD/view?usp=sharing) |
 |16 Abr 2020| Docker | [Slides](https://docs.google.com/presentation/d/1aw98EWX2GrsBQOZaP8NWsxV957zgjoZQxk56geMJ8ps/edit?usp=sharing) | [Teoria](https://drive.google.com/file/d/1t3wJ0r9taUnOoERhuSv9fr3_oeOB1LBu/view?usp=sharing) / [Prática 1](https://drive.google.com/file/d/1tMvgmuVG-4eYCBgLhY2lt62ICAl9PwYu/view?usp=sharing) / [Prática 2](https://drive.google.com/file/d/1wWI4nSzxJg3yqeQGjDGxgNmnoQXuqzd-/view?usp=sharing) |
 |21 Abr 2020| Feriado Nacional - Tiradentes | - | - |
-|23 Abr 2020| Prática - Kubernets/Docker | [Slides](https://docs.google.com/presentation/d/1uy_yNNo1G3qiOvTKkMkjpifMRhJSzkvlwbBOTr3JKco/edit?usp=sharing) | [Lista de Video-Aulas](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) #2 a #10 |
+|23 Abr 2020| Kubernetes (Orquestração Docker) | [Slides](https://docs.google.com/presentation/d/1uy_yNNo1G3qiOvTKkMkjpifMRhJSzkvlwbBOTr3JKco/edit?usp=sharing) | [Lista de Video-Aulas: #2 a #10](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) |
 |14 Abr 2020| Desafios de Engenharia de Software para Nuvem  | - | - |
 |30 Mai 2020| Revisão - Avaliação Escrita | - | - |
 |05 Mai 2020| Prova Escrita | - | - |
