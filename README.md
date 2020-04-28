@@ -141,7 +141,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |16 Abr 2020| Docker | [Slides](https://docs.google.com/presentation/d/1aw98EWX2GrsBQOZaP8NWsxV957zgjoZQxk56geMJ8ps/edit?usp=sharing) | [Teoria](https://drive.google.com/file/d/1t3wJ0r9taUnOoERhuSv9fr3_oeOB1LBu/view?usp=sharing) / [Prática 1](https://drive.google.com/file/d/1tMvgmuVG-4eYCBgLhY2lt62ICAl9PwYu/view?usp=sharing) / [Prática 2](https://drive.google.com/file/d/1wWI4nSzxJg3yqeQGjDGxgNmnoQXuqzd-/view?usp=sharing) |
 |21 Abr 2020| Feriado Nacional - Tiradentes | - | - |
 |23 Abr 2020| Kubernetes (Orquestração Docker) | [Slides](https://docs.google.com/presentation/d/1uy_yNNo1G3qiOvTKkMkjpifMRhJSzkvlwbBOTr3JKco/edit?usp=sharing) | [Lista de Video-Aulas: #2 a #10](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) |
-|28 Abr 2020| Microserviços | - | - |
+|28 Abr 2020| Microsserviços | [slides](https://docs.google.com/presentation/d/1sJT40FROpDIf5zec2LBESlsGCTwtVGcPSnaNNawY5cw/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1VIzp5kjfTpgoN0ZP7KqTa6xGiERIPuhr/view?usp=sharing) |
 |30 Abr 2020| Desafios de Engenharia de Software para Nuvem  | [Roteiro](https://docs.google.com/document/d/1WBtdhrzvAvzWqt5-jNkIw9dyzlpCjnYFugl0fsOQ2jQ/edit?usp=sharing) | [Formulário](https://forms.gle/9mrMWxCDKrrr8HYm9) |
 |05 Mai 2020| - | - | - |
 |07 Mai 2020| Processamento Intensivo (Map/Reduce) | - | - |
