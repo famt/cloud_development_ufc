@@ -143,6 +143,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |23 Abr 2020| Kubernetes (Orquestração Docker) | [Slides](https://docs.google.com/presentation/d/1uy_yNNo1G3qiOvTKkMkjpifMRhJSzkvlwbBOTr3JKco/edit?usp=sharing) | [Lista de Video-Aulas: #2 a #10](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) |
 |28 Abr 2020| Microsserviços | [slides](https://docs.google.com/presentation/d/1sJT40FROpDIf5zec2LBESlsGCTwtVGcPSnaNNawY5cw/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1VIzp5kjfTpgoN0ZP7KqTa6xGiERIPuhr/view?usp=sharing) |
 |30 Abr 2020| Desafios de Engenharia de Software para Nuvem  | [Roteiro](https://docs.google.com/document/d/1WBtdhrzvAvzWqt5-jNkIw9dyzlpCjnYFugl0fsOQ2jQ/edit?usp=sharing) | [Formulário](https://forms.gle/9mrMWxCDKrrr8HYm9) |
+| | | | [Vídeo-Debate](https://drive.google.com/file/d/1CYyuzOlD9hz0zFXAM_w_-N8AmgiW1FRy/view?usp=sharing) |
 |05 Mai 2020| - | - | - |
 |07 Mai 2020| Processamento Intensivo (Map/Reduce) | - | - |
 |12 Mai 2020| Aula Prática - Elastic Map Reduce | - | - |
