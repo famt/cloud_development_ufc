@@ -146,7 +146,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 | | | | [Vídeo-Debate](https://drive.google.com/file/d/1CYyuzOlD9hz0zFXAM_w_-N8AmgiW1FRy/view?usp=sharing) |
 |01 Mai 2020| Entrega do Trabalho GCP | - | [Planilha de Notas](https://docs.google.com/spreadsheets/d/1DRSlKrN79_uuarLp6kAy3e0ErmGWIX2WP9zxQpA9viY/edit?usp=sharing) / [Trabalho Prático 3 - Docker](https://github.com/famt/cloud_development_ufc/raw/2020/trabalhos/T3-Docker.pdf)|
 |05 Mai 2020| Processamento Intensivo (Map/Reduce) | [Slides](https://docs.google.com/presentation/d/1_EGPw4qevL0QGxkJ98nU8EBpBVSIARTpJlmQ96wk_Wk/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1byd9wRYAM9gYAdHR3bN6Qv_vm1NnYqXw/view?usp=sharing) |
-|07 Mai 2020| - | - | - |
+|07 Mai 2020| Hadoop na prática | [Links](https://drive.google.com/file/d/1-cnwiIoaKrlyidiE3OmAiWyQMw-wrUTQ/view?usp=sharing) | [Video](https://drive.google.com/file/d/1-h0mtYd4WvqCs4aroIqsWwL8E5NXSxVf/view?usp=sharing) |
 |12 Mai 2020| Aula Prática - Elastic Map Reduce | - | - |
 |14 Mai 2020| Ambientes Multicloud | - | - |
 |19 Mai 2020| Integração Mobile + Nuvem | - | - |
