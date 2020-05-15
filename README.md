@@ -148,7 +148,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |05 Mai 2020| Processamento Intensivo (Map/Reduce) | [Slides](https://docs.google.com/presentation/d/1_EGPw4qevL0QGxkJ98nU8EBpBVSIARTpJlmQ96wk_Wk/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1byd9wRYAM9gYAdHR3bN6Qv_vm1NnYqXw/view?usp=sharing) |
 |07 Mai 2020| Hadoop na prática | [Links](https://drive.google.com/file/d/1-cnwiIoaKrlyidiE3OmAiWyQMw-wrUTQ/view?usp=sharing) | [Video](https://drive.google.com/file/d/1-h0mtYd4WvqCs4aroIqsWwL8E5NXSxVf/view?usp=sharing) |
 |12 Mai 2020| Ambientes Multicloud | [Slides](https://github.com/famt/cloud_development_ufc/blob/2020/aulas/multipleClouds.pdf) | [Video-Aula](https://drive.google.com/file/d/11xM8x0b9PZCPg6KxfPeLNe5uGtzl1nc5/view?usp=sharing) |
-|14 Mai 2020| Integração Mobile + Nuvem | - | - |
+|14 Mai 2020| Integração Mobile + Nuvem | [Slides](https://docs.google.com/presentation/d/1SULYl_WaGYTbRBz5Lmc2wcEsoRmKDKO-lXO-Tf35gZo/edit?usp=sharing) | [Video-aula](https://drive.google.com/file/d/11t1Lj1QPLsIKshlpIoUIgWmBKSGQW-cf/view?usp=sharing) |
 |19 Mai 2020| Estudo de Caso: CAOS MS | - | - |
 |21 Mai 2020| - | - | - |
 |26 Mai 2020| a definir | - | - |
