@@ -151,7 +151,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |12 Mai 2020| Ambientes Multicloud | [Slides](https://github.com/famt/cloud_development_ufc/blob/2020/aulas/multipleClouds.pdf) | [Video-Aula](https://drive.google.com/file/d/11xM8x0b9PZCPg6KxfPeLNe5uGtzl1nc5/view?usp=sharing) |
 |14 Mai 2020| Integração Mobile + Nuvem | [Slides](https://docs.google.com/presentation/d/1SULYl_WaGYTbRBz5Lmc2wcEsoRmKDKO-lXO-Tf35gZo/edit?usp=sharing) | [Video-aula](https://drive.google.com/file/d/11t1Lj1QPLsIKshlpIoUIgWmBKSGQW-cf/view?usp=sharing) |
 |19 Mai 2020| Projetos UFC em MCC | [Slides](https://docs.google.com/presentation/d/15xKUtYIYiykQ5NHFZvejOGEFX_Rb8CGOqYWlRoUVfYs/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1-s4gYkuUXtNpXnvJBoG9PEgWLHvaGpaI/view?usp=sharing) |
-|21 Mai 2020| Encontros Universitários 2020 | - | - |
+|21 Mai 2020| Encontros Universitários 2020 | - | [Planilha de Notas (T3 - Docker)](https://docs.google.com/spreadsheets/d/1CPsz_RDNcng2mhrpkw3zZ51gv2OnS9PhMSt9TIs2sNs/edit?usp=sharing) |
 |26 Mai 2020| Serverless | - | - |
 |28 Jun 2020| a definir | - | - |
 |02 Jun 2020| a definir | - | - |
