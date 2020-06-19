@@ -153,15 +153,6 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |19 Mai 2020| Projetos UFC em MCC | [Slides](https://docs.google.com/presentation/d/15xKUtYIYiykQ5NHFZvejOGEFX_Rb8CGOqYWlRoUVfYs/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1-s4gYkuUXtNpXnvJBoG9PEgWLHvaGpaI/view?usp=sharing) |
 |21 Mai 2020| Encontros Universitários 2020 | - | [Planilha de Notas (T3 - Docker)](https://docs.google.com/spreadsheets/d/1CPsz_RDNcng2mhrpkw3zZ51gv2OnS9PhMSt9TIs2sNs/edit?usp=sharing) |
 |26 Mai 2020| Serverless | [Slides](https://docs.google.com/presentation/d/12Z-lATmFopY_qIfZfU-V__Nl2PJq_AXD2ZHTmPj4tpg/edit?usp=sharing) | [Teoria](https://drive.google.com/file/d/109Qb6wahcisqOIooHRI5koT5Hz95PKoZ/view?usp=sharing) / [Prática 1](https://drive.google.com/file/d/1xu8MKRPvBqjQAaNi8LDjgRFNdki7BxGP/view?usp=sharing) / [Prática 2](https://drive.google.com/file/d/11dfO6tYh38e4SE2dvLZWVilrbgq2iwbN/view?usp=sharing) |
-|28 Jun 2020| a definir | - | - |
-|02 Jun 2020| a definir | - | - |
-|04 Jun 2020| a definir | - | - |
-|09 Jun 2020| a definir | - | - |
-|11 Jun 2020| a definir | - | - |
-|16 Jun 2020| a definir | - | - |
-|18 Jun 2020| a definir | - | - |
-|23 Jun 2020| a definir | - | - |
-|25 Jun 2020| a definir | - | - |
-|30 Jun 2020| a definir | - | - |
-|02 Jul 2020| a definir | - | - |
+|18 Jun 2020| Cloud Gaming (Parte 1) | [Slides](https://drive.google.com/file/d/11kFZgThotPeLE5-Ls12Sc9QxWDx6u7Qe/view?usp=sharing) | [Apresentacao-Video](https://www.youtube.com/watch?v=e5PRRnIhrgA&feature=youtu.be) |
+|18 Jun 2020| Green Computing | [Slides](https://drive.google.com/file/d/11mODsvED2UKbbEAnt3YAqp6qwfCnzgwg/view?usp=sharing) | [Apresentacao-Video](https://drive.google.com/drive/folders/1-CYkpaEk0nHBUGt4xBsCyvY9ypnKJw6M?usp=sharing) |
 |06 Jul 2020| Prazo Final para Consolidação de Notas | - | - |
