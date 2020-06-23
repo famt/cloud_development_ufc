@@ -157,4 +157,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |02 Jun 2020| Algorithmia | [Slides](https://docs.google.com/presentation/d/1rjFwHalUsnuAdgsCxmNMY9EU7y7GpMogvAwokzqqgnE/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1SCpgFXedrPpB7cnHxGFM_VT2bxi2S7Os/view?usp=sharing) |
 |18 Jun 2020| Cloud Gaming (Parte 1) | [Slides](https://drive.google.com/file/d/11kFZgThotPeLE5-Ls12Sc9QxWDx6u7Qe/view?usp=sharing) | [Apresentacao-Video](https://www.youtube.com/watch?v=e5PRRnIhrgA&feature=youtu.be) |
 |18 Jun 2020| Green Computing | [Slides](https://drive.google.com/file/d/11mODsvED2UKbbEAnt3YAqp6qwfCnzgwg/view?usp=sharing) | [Apresentacao-Video](https://drive.google.com/drive/folders/1-CYkpaEk0nHBUGt4xBsCyvY9ypnKJw6M?usp=sharing) |
+|23 Jun 2020| Segurança em SaaS | [Slides](https://drive.google.com/file/d/12zPCAS4pueeCzIyBDCBwpr1w-6eKbPJ2/view?usp=sharing) | [Apresentacao-Video](https://drive.google.com/file/d/104osTvsBtZnk_C1KgyuxsSMthEGbzrf0/view?usp=sharing) |
+|23 Jun 2020| Segurança em Nuvem | [Slides](https://drive.google.com/file/d/132I9kHa7prP0VVlcgCS8wF1FrABmQ4bl/view?usp=sharing) | [Apresentacao-Video](https://www.youtube.com/watch?v=5hNkG7JJNL0&feature=youtu.be) |
+|23 Jun 2020| Arquiteturas, Padrões e Processo para Aplicações em Nuvem | [Slides](https://drive.google.com/file/d/12zCEd6p1zxW2sW6dL8ysHuV6lI36llrF/view?usp=sharing) | [Apresentacao-Video](https://youtu.be/a9M5fs_kFgU) |
 |06 Jul 2020| Prazo Final para Consolidação de Notas | - | - |
