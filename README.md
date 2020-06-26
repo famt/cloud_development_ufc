@@ -160,4 +160,8 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |23 Jun 2020| Segurança em SaaS | [Slides](https://drive.google.com/file/d/12zPCAS4pueeCzIyBDCBwpr1w-6eKbPJ2/view?usp=sharing) | [Apresentacao-Video](https://drive.google.com/file/d/104osTvsBtZnk_C1KgyuxsSMthEGbzrf0/view?usp=sharing) |
 |23 Jun 2020| Segurança em Nuvem | [Slides](https://drive.google.com/file/d/132I9kHa7prP0VVlcgCS8wF1FrABmQ4bl/view?usp=sharing) | [Apresentacao-Video](https://www.youtube.com/watch?v=5hNkG7JJNL0&feature=youtu.be) |
 |23 Jun 2020| Arquiteturas, Padrões e Processo para Aplicações em Nuvem | [Slides](https://drive.google.com/file/d/12zCEd6p1zxW2sW6dL8ysHuV6lI36llrF/view?usp=sharing) | [Apresentacao-Video](https://youtu.be/a9M5fs_kFgU) |
+|25 Jun 2020| Testes de Software em Nuvem  | [Slides](https://drive.google.com/file/d/13GgAV6obXFIfl-BfHeihoHguC_hLk_VM/view?usp=sharing) | [Apresentacao-Video](https://drive.google.com/file/d/1iA5vH1F_LeVdc1j_n2Zfuvf5m_cyEGDq/view?usp=sharing) |
+|25 Jun 2020| Vanets Cloud Computing | [Slides](https://drive.google.com/file/d/134l_W0YQy8PuTsrUlVvkon-R3_qBSn0H/view?usp=sharing) | [Apresentacao-Video](https://youtu.be/7G8NndxIeA8) |
+|26 Jun 2020| Cloud Gaming 2 - A missão | [Slides](https://drive.google.com/file/d/136tyiEuna8QaPnHFH7DeF-LXp0dxkpQu/view?usp=sharing) | [Apresentacao-Video](https://drive.google.com/file/d/12Gehh0UITjjlESUKfSQfuOltzDvlpnzR/view?usp=sharing) |
+|26 Jun 2020| [Planilha de Notas](https://docs.google.com/spreadsheets/d/1weEON_jIWkxXKv4NBMhi-LZhntd7A6X0nP16UBG7HEE/edit?usp=sharing) |  |  |
 |06 Jul 2020| Prazo Final para Consolidação de Notas | - | - |
