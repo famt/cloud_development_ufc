@@ -13,7 +13,7 @@
 
 ### Local
 
-Bloco 942-A (GREat), Terça e Quintas (14:00-16:00), Sala Lagoinha.
+Terça e Quintas (14:00-16:00), Aulas pré-gravadas e Reuniões tíra-dúvidas pelo GoogleMeets.
 
 
 ### Edições passadas
@@ -105,11 +105,11 @@ A avaliação será feita a partir da realização de uma prova escrita (PE) e d
 
 * T1 = Aplicação Web com Amazon AWS + Escalabilidade
 * T2 = Aplicação Web em uma plataforma opensource ou PAAS (a escolha do aluno)
-* T3 = Uso de Map/Reduce para processamento intensivo de Dados
-* T4 = Desenvolvimento/Implantação de uma aplicação com Docker/Kubernetes
-* T5 = Aplicação Móvel com CAOS MS (Opcional para quem quiser melhorar nota)
+* T3 = Desenvolvimento/Implantação de uma aplicação com Docker/Kubernetes
+* T4 = Uso de Map/Reduce para processamento intensivo de Dados
+* T5 = Seminário sobre temas correlatos à nuvem a escolha dos alunos, com anuência dos professores
 
-A Nota final será calculada com base na Fórmula **NF = {Prova + [(T1 + ... + T4)/4 + T5]}/2**
+A Nota final será calculada com base na média aritmética de cada tarefa. 
 
 Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final escrita sobre todo o conteúdo da disciplina.
 
@@ -119,49 +119,37 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 
 | Aulas       | Tópicos                      | Recursos | Tarefas |
 |:-------------:|-----------------------------|:---------:|:-----------:|
-|18 Fev 2020| Apresentação da Disciplina | [Slides](https://docs.google.com/presentation/d/1VqJDR1fjlsLJw9cwZfLd74rARmFjHDPOE0fVNH8A17Y/edit?usp=sharing) | - |
-|20 Fev 2020| Não haverá aula | - | - |
-|25 Fev 2020| Carnaval | - | - |
-|27 Fev 2020| Conceitos Básicos sobre Nuvem | [Slides](https://docs.google.com/presentation/d/1LIIyQNGq1xrtX1F3COG2g-70yFr8LzdJKtoo_KmIXTo/edit?usp=sharing) | [Artigo NIST](https://csrc.nist.gov/publications/detail/sp/800-145/final) |
+|21 Jul 2020| Apresentação da Disciplina | [Slides](https://docs.google.com/presentation/d/1VqJDR1fjlsLJw9cwZfLd74rARmFjHDPOE0fVNH8A17Y/edit?usp=sharing) | - |
+|23 Jul 2020| Conceitos Básicos sobre Nuvem | [Slides](https://docs.google.com/presentation/d/1LIIyQNGq1xrtX1F3COG2g-70yFr8LzdJKtoo_KmIXTo/edit?usp=sharing) | [Artigo NIST](https://csrc.nist.gov/publications/detail/sp/800-145/final) |
 | | | | [Artigo Definições sobre CC](http://www.sigcomm.org/node/2749) |
 | | | | [Caps 2, 4 e 5 - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
-|03 Mar 2020| Caso de Estudo Núvem Pública: AWS | [Slides](https://docs.google.com/presentation/d/1TToinfxBdRqmmYpUxjk13sPP5HxlLuC1l92nNgte1No/edit?usp=sharing) | (http://aws.amazon.com) |
-|05 Mar 2020| Amazon AWS Restfull API | - | [Trabalho Prático 1 - AWS](https://github.com/famt/cloud_development_ufc/blob/2020/trabalhos/T1-TrabalhoAWS.pdf) |
+|28 Jul 2020| Caso de Estudo Núvem Pública: AWS | [Slides](https://docs.google.com/presentation/d/1TToinfxBdRqmmYpUxjk13sPP5HxlLuC1l92nNgte1No/edit?usp=sharing) | (http://aws.amazon.com) |
+|30 Jul 2020| Amazon AWS Restfull API | - | [Trabalho Prático 1 - AWS](https://github.com/famt/cloud_development_ufc/blob/2020/trabalhos/T1-TrabalhoAWS.pdf) |
 | |  |  | [AWS SDKs](https://aws.amazon.com/pt/tools/) |
 | |  |  | [Exemplo NodeJS](https://github.com/famt/cloud_development_ufc/blob/2020/exemplos/aws_2020.zip)  |
-|10 Mar 2020| Soluções Open Source para Nuvens Privadas | [Slides](https://docs.google.com/presentation/d/1AsFHOm1WkQUfTOhv1uIBql5Orzn_a0mi4pJpMGNRbOY/edit?usp=sharing) | [Cap. 12 (Open Source Support for Cloud) - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
-|12 Mar 2020| Estudo de Caso: OpenStack | - | - |
-|17 Mar 2020| Elasticidade | [Slides](https://docs.google.com/presentation/d/1-l8nAf8QyUlkFnfSHP2nsczyWxKj28UNK6G7lZP2L-g/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1GJ4U7YVo_r2XvSNdDEVKQD9_-AcbgBZo/view?usp=sharing) |
-|19 Mar 2020| Feriado Estadual - Dia de São José | - | - |
-|24 Mar 2020| Elasticidade na prática: Auto Scalling Groups | - | [Vídeo-Aula](https://www.youtube.com/watch?v=DcrV9c8VM7o&t=79s) |
-07 Abr 2020| Entrega de Trabalho I - AWS | - | [Planilha de Notas](https://docs.google.com/spreadsheets/d/12CBYpYAFRGJTeTmaOhhkRlYQ9dwjTbt-TZ8IA-nlUhI/edit?usp=sharing) |
-|07 Abr 2020| Google Cloud Platform | [Slides](https://docs.google.com/presentation/d/105yo6MJTTBUtthjhoXjf_-mArEimDsIQflEP9UkbjAg/edit?usp=sharing) | [Vídeo-Aula 1](https://drive.google.com/file/d/13f_s4vyan-2FCNgmbryogX0F7DbtdB2J/view?usp=sharing) / [Vídeo-Aula 2](https://drive.google.com/file/d/1HyWt-Qa2YZEUl7Opj_puxB8hz8ZAv4uo/view?usp=sharing) / [Dataset](https://github.com/famt/cloud_development_ufc/raw/2020/exemplos/student-alcohol-consumption.zip) |
-|09 Abr 2020| Google APIs e App Engine | [Slides](https://docs.google.com/presentation/d/1UCAA3-O0VRjfJ4PfStzuF8QJwuMs3LDpGEr5pRJkog8/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1FX0zPHw-Wl9kITfk3YtR2SkFHTWwTAwY/view?usp=sharing) / [Colab Notebook](https://colab.research.google.com/drive/1vFoZeQFZzTYnIK11LoHwodUd_S-anQFr) / [Trabalho Prático 2 - GCP](https://github.com/famt/cloud_development_ufc/blob/2020/trabalhos/T2%20-%20TrabalhoGCP.pdf) |
-|14 Abr 2020| Virtualização | [Slides](https://docs.google.com/presentation/d/1wxvtghuxDr_0wz_ChV2OBj6PLY0NefKAncwEliPb_1k/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1I8G6CKDgGn8Mq1hiujj7pkPLzTbcZrvD/view?usp=sharing) |
-|16 Abr 2020| Docker | [Slides](https://docs.google.com/presentation/d/1aw98EWX2GrsBQOZaP8NWsxV957zgjoZQxk56geMJ8ps/edit?usp=sharing) | [Teoria](https://drive.google.com/file/d/1t3wJ0r9taUnOoERhuSv9fr3_oeOB1LBu/view?usp=sharing) / [Prática 1](https://drive.google.com/file/d/1tMvgmuVG-4eYCBgLhY2lt62ICAl9PwYu/view?usp=sharing) / [Prática 2](https://drive.google.com/file/d/1wWI4nSzxJg3yqeQGjDGxgNmnoQXuqzd-/view?usp=sharing) |
-|21 Abr 2020| Feriado Nacional - Tiradentes | - | - |
-|23 Abr 2020| Kubernetes (Orquestração Docker) | [Slides](https://docs.google.com/presentation/d/1uy_yNNo1G3qiOvTKkMkjpifMRhJSzkvlwbBOTr3JKco/edit?usp=sharing) | [Lista de Video-Aulas: #2 a #10](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) |
-|28 Abr 2020| Microsserviços | [slides](https://docs.google.com/presentation/d/1sJT40FROpDIf5zec2LBESlsGCTwtVGcPSnaNNawY5cw/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1VIzp5kjfTpgoN0ZP7KqTa6xGiERIPuhr/view?usp=sharing) |
-|30 Abr 2020| Desafios de Engenharia de Software para Nuvem  | [Roteiro](https://docs.google.com/document/d/1WBtdhrzvAvzWqt5-jNkIw9dyzlpCjnYFugl0fsOQ2jQ/edit?usp=sharing) | [Formulário](https://forms.gle/9mrMWxCDKrrr8HYm9) |
+|04 Ago 2020| Soluções Open Source para Nuvens Privadas | [Slides](https://docs.google.com/presentation/d/1AsFHOm1WkQUfTOhv1uIBql5Orzn_a0mi4pJpMGNRbOY/edit?usp=sharing) | [Cap. 12 (Open Source Support for Cloud) - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
+|06 Ago 2020| Estudo de Caso: OpenStack | - | - |
+|11 Ago 2020| Elasticidade | [Slides](https://docs.google.com/presentation/d/1-l8nAf8QyUlkFnfSHP2nsczyWxKj28UNK6G7lZP2L-g/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1GJ4U7YVo_r2XvSNdDEVKQD9_-AcbgBZo/view?usp=sharing) |
+|13 Ago 2020| Elasticidade na prática: Auto Scalling Groups | - | [Vídeo-Aula](https://www.youtube.com/watch?v=DcrV9c8VM7o&t=79s) |
+|18 Ago 2020| Entrega de Trabalho I - AWS | - |  |
+|20 Ago 2020| Google Cloud Platform | [Slides](https://docs.google.com/presentation/d/105yo6MJTTBUtthjhoXjf_-mArEimDsIQflEP9UkbjAg/edit?usp=sharing) | [Vídeo-Aula 1](https://drive.google.com/file/d/13f_s4vyan-2FCNgmbryogX0F7DbtdB2J/view?usp=sharing) / [Vídeo-Aula 2](https://drive.google.com/file/d/1HyWt-Qa2YZEUl7Opj_puxB8hz8ZAv4uo/view?usp=sharing) / [Dataset](https://github.com/famt/cloud_development_ufc/raw/2020/exemplos/student-alcohol-consumption.zip) |
+|25 Ago 2020| Google APIs e App Engine | [Slides](https://docs.google.com/presentation/d/1UCAA3-O0VRjfJ4PfStzuF8QJwuMs3LDpGEr5pRJkog8/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1FX0zPHw-Wl9kITfk3YtR2SkFHTWwTAwY/view?usp=sharing) / [Colab Notebook](https://colab.research.google.com/drive/1vFoZeQFZzTYnIK11LoHwodUd_S-anQFr) / [Trabalho Prático 2 - GCP](https://github.com/famt/cloud_development_ufc/blob/2020/trabalhos/T2%20-%20TrabalhoGCP.pdf) |
+|30 Ago 2020| Virtualização | [Slides](https://docs.google.com/presentation/d/1wxvtghuxDr_0wz_ChV2OBj6PLY0NefKAncwEliPb_1k/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1I8G6CKDgGn8Mq1hiujj7pkPLzTbcZrvD/view?usp=sharing) |
+|01 Set 2020| Docker | [Slides](https://docs.google.com/presentation/d/1aw98EWX2GrsBQOZaP8NWsxV957zgjoZQxk56geMJ8ps/edit?usp=sharing) | [Teoria](https://drive.google.com/file/d/1t3wJ0r9taUnOoERhuSv9fr3_oeOB1LBu/view?usp=sharing) / [Prática 1](https://drive.google.com/file/d/1tMvgmuVG-4eYCBgLhY2lt62ICAl9PwYu/view?usp=sharing) / [Prática 2](https://drive.google.com/file/d/1wWI4nSzxJg3yqeQGjDGxgNmnoQXuqzd-/view?usp=sharing) |
+|06 Set 2020| Feriado Nacional - Tiradentes | - | - |
+|08 Set 2020| Kubernetes (Orquestração Docker) | [Slides](https://docs.google.com/presentation/d/1uy_yNNo1G3qiOvTKkMkjpifMRhJSzkvlwbBOTr3JKco/edit?usp=sharing) | [Lista de Video-Aulas: #2 a #10](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) |
+|13 Set 2020| Microsserviços | [slides](https://docs.google.com/presentation/d/1sJT40FROpDIf5zec2LBESlsGCTwtVGcPSnaNNawY5cw/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1VIzp5kjfTpgoN0ZP7KqTa6xGiERIPuhr/view?usp=sharing) |
+|15 Set 2020| Desafios de Engenharia de Software para Nuvem  | [Roteiro](https://docs.google.com/document/d/1WBtdhrzvAvzWqt5-jNkIw9dyzlpCjnYFugl0fsOQ2jQ/edit?usp=sharing) | [Formulário](https://forms.gle/9mrMWxCDKrrr8HYm9) |
 | | | | [Vídeo-Debate](https://drive.google.com/file/d/1CYyuzOlD9hz0zFXAM_w_-N8AmgiW1FRy/view?usp=sharing) |
-|01 Mai 2020| Entrega do Trabalho GCP | - | [Planilha de Notas](https://docs.google.com/spreadsheets/d/1DRSlKrN79_uuarLp6kAy3e0ErmGWIX2WP9zxQpA9viY/edit?usp=sharing) / [Trabalho Prático 3 - Docker](https://github.com/famt/cloud_development_ufc/raw/2020/trabalhos/T3-Docker.pdf)|
-|05 Mai 2020| Processamento Intensivo (Map/Reduce) | [Slides](https://docs.google.com/presentation/d/1_EGPw4qevL0QGxkJ98nU8EBpBVSIARTpJlmQ96wk_Wk/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1byd9wRYAM9gYAdHR3bN6Qv_vm1NnYqXw/view?usp=sharing) |
-|07 Mai 2020| Hadoop na prática | [Links](https://drive.google.com/file/d/1-cnwiIoaKrlyidiE3OmAiWyQMw-wrUTQ/view?usp=sharing) | [Video](https://drive.google.com/file/d/1-h0mtYd4WvqCs4aroIqsWwL8E5NXSxVf/view?usp=sharing) |
-|07 Mai 2020| Trabalho Map/Reduce | [Especificacao](https://drive.google.com/file/d/10J46rQ4jvJgcwmeCMN6nx0j0tqRxul_W/view?usp=sharing) | [Planilha de Notas](https://docs.google.com/spreadsheets/d/1kWgxHd4i32d11Z_9qnmlaDX_2BjreP6ELVyGh9wJUdg/edit?usp=sharing) / [Dataset](https://drive.google.com/drive/mobile/folders/0BzwVBj1heLoReXVLaU51bTAxZ2M?us) |
-|12 Mai 2020| Ambientes Multicloud | [Slides](https://github.com/famt/cloud_development_ufc/blob/2020/aulas/multipleClouds.pdf) | [Video-Aula](https://drive.google.com/file/d/11xM8x0b9PZCPg6KxfPeLNe5uGtzl1nc5/view?usp=sharing) |
-|14 Mai 2020| Integração Mobile + Nuvem | [Slides](https://docs.google.com/presentation/d/1SULYl_WaGYTbRBz5Lmc2wcEsoRmKDKO-lXO-Tf35gZo/edit?usp=sharing) | [Video-aula](https://drive.google.com/file/d/11t1Lj1QPLsIKshlpIoUIgWmBKSGQW-cf/view?usp=sharing) |
-|19 Mai 2020| Projetos UFC em MCC | [Slides](https://docs.google.com/presentation/d/15xKUtYIYiykQ5NHFZvejOGEFX_Rb8CGOqYWlRoUVfYs/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1-s4gYkuUXtNpXnvJBoG9PEgWLHvaGpaI/view?usp=sharing) |
-|21 Mai 2020| Encontros Universitários 2020 | - | [Planilha de Notas (T3 - Docker)](https://docs.google.com/spreadsheets/d/1CPsz_RDNcng2mhrpkw3zZ51gv2OnS9PhMSt9TIs2sNs/edit?usp=sharing) |
-|26 Mai 2020| Serverless | [Slides](https://docs.google.com/presentation/d/12Z-lATmFopY_qIfZfU-V__Nl2PJq_AXD2ZHTmPj4tpg/edit?usp=sharing) | [Teoria](https://drive.google.com/file/d/109Qb6wahcisqOIooHRI5koT5Hz95PKoZ/view?usp=sharing) / [Prática 1](https://drive.google.com/file/d/1xu8MKRPvBqjQAaNi8LDjgRFNdki7BxGP/view?usp=sharing) / [Prática 2](https://drive.google.com/file/d/11dfO6tYh38e4SE2dvLZWVilrbgq2iwbN/view?usp=sharing) |
-|28 Jun 2020| Encontros Universitários | - | - |
-|02 Jun 2020| Algorithmia | [Slides](https://docs.google.com/presentation/d/1rjFwHalUsnuAdgsCxmNMY9EU7y7GpMogvAwokzqqgnE/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1SCpgFXedrPpB7cnHxGFM_VT2bxi2S7Os/view?usp=sharing) |
-|18 Jun 2020| Cloud Gaming (Parte 1) | [Slides](https://drive.google.com/file/d/11kFZgThotPeLE5-Ls12Sc9QxWDx6u7Qe/view?usp=sharing) | [Apresentacao-Video](https://www.youtube.com/watch?v=e5PRRnIhrgA&feature=youtu.be) |
-|18 Jun 2020| Green Computing | [Slides](https://drive.google.com/file/d/11mODsvED2UKbbEAnt3YAqp6qwfCnzgwg/view?usp=sharing) | [Apresentacao-Video](https://drive.google.com/drive/folders/1-CYkpaEk0nHBUGt4xBsCyvY9ypnKJw6M?usp=sharing) |
-|23 Jun 2020| Segurança em SaaS | [Slides](https://drive.google.com/file/d/12zPCAS4pueeCzIyBDCBwpr1w-6eKbPJ2/view?usp=sharing) | [Apresentacao-Video](https://drive.google.com/file/d/104osTvsBtZnk_C1KgyuxsSMthEGbzrf0/view?usp=sharing) |
-|23 Jun 2020| Segurança em Nuvem | [Slides](https://drive.google.com/file/d/132I9kHa7prP0VVlcgCS8wF1FrABmQ4bl/view?usp=sharing) | [Apresentacao-Video](https://www.youtube.com/watch?v=5hNkG7JJNL0&feature=youtu.be) |
-|23 Jun 2020| Arquiteturas, Padrões e Processo para Aplicações em Nuvem | [Slides](https://drive.google.com/file/d/12zCEd6p1zxW2sW6dL8ysHuV6lI36llrF/view?usp=sharing) | [Apresentacao-Video](https://youtu.be/a9M5fs_kFgU) |
-|25 Jun 2020| Testes de Software em Nuvem  | [Slides](https://drive.google.com/file/d/13GgAV6obXFIfl-BfHeihoHguC_hLk_VM/view?usp=sharing) | [Apresentacao-Video](https://drive.google.com/file/d/1iA5vH1F_LeVdc1j_n2Zfuvf5m_cyEGDq/view?usp=sharing) |
-|25 Jun 2020| Vanets Cloud Computing | [Slides](https://drive.google.com/file/d/134l_W0YQy8PuTsrUlVvkon-R3_qBSn0H/view?usp=sharing) | [Apresentacao-Video](https://youtu.be/7G8NndxIeA8) |
-|26 Jun 2020| Cloud Gaming 2 - A missão | [Slides](https://drive.google.com/file/d/136tyiEuna8QaPnHFH7DeF-LXp0dxkpQu/view?usp=sharing) | [Apresentacao-Video](https://drive.google.com/file/d/12Gehh0UITjjlESUKfSQfuOltzDvlpnzR/view?usp=sharing) |
-|26 Jun 2020| [Planilha de Notas](https://docs.google.com/spreadsheets/d/1weEON_jIWkxXKv4NBMhi-LZhntd7A6X0nP16UBG7HEE/edit?usp=sharing) |  |  |
-|06 Jul 2020| Prazo Final para Consolidação de Notas | - | - |
+|20 Set 2020| Entrega do Trabalho GCP | - | Planilha de Notas / [Trabalho Prático 3 - Docker](https://github.com/famt/cloud_development_ufc/raw/2020/trabalhos/T3-Docker.pdf)|
+|20 Set 2020| Processamento Intensivo (Map/Reduce) | [Slides](https://docs.google.com/presentation/d/1_EGPw4qevL0QGxkJ98nU8EBpBVSIARTpJlmQ96wk_Wk/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1byd9wRYAM9gYAdHR3bN6Qv_vm1NnYqXw/view?usp=sharing) |
+|22 Set 2020| Hadoop na prática | [Links](https://drive.google.com/file/d/1-cnwiIoaKrlyidiE3OmAiWyQMw-wrUTQ/view?usp=sharing) | [Video](https://drive.google.com/file/d/1-h0mtYd4WvqCs4aroIqsWwL8E5NXSxVf/view?usp=sharing) |
+|22 Set 2020| Trabalho Map/Reduce | [Especificacao](https://drive.google.com/file/d/10J46rQ4jvJgcwmeCMN6nx0j0tqRxul_W/view?usp=sharing) | Planilha de Notas / [Dataset](https://drive.google.com/drive/mobile/folders/0BzwVBj1heLoReXVLaU51bTAxZ2M?us) |
+|27 Set 2020| Ambientes Multicloud | [Slides](https://github.com/famt/cloud_development_ufc/blob/2020/aulas/multipleClouds.pdf) | [Video-Aula](https://drive.google.com/file/d/11xM8x0b9PZCPg6KxfPeLNe5uGtzl1nc5/view?usp=sharing) |
+|02 Out 2020| Integração Mobile + Nuvem | [Slides](https://docs.google.com/presentation/d/1SULYl_WaGYTbRBz5Lmc2wcEsoRmKDKO-lXO-Tf35gZo/edit?usp=sharing) | [Video-aula](https://drive.google.com/file/d/11t1Lj1QPLsIKshlpIoUIgWmBKSGQW-cf/view?usp=sharing) |
+|04 Out 2020| Projetos UFC em MCC | [Slides](https://docs.google.com/presentation/d/15xKUtYIYiykQ5NHFZvejOGEFX_Rb8CGOqYWlRoUVfYs/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1-s4gYkuUXtNpXnvJBoG9PEgWLHvaGpaI/view?usp=sharing) |
+|09 Out 2020| Serverless | [Slides](https://docs.google.com/presentation/d/12Z-lATmFopY_qIfZfU-V__Nl2PJq_AXD2ZHTmPj4tpg/edit?usp=sharing) | [Teoria](https://drive.google.com/file/d/109Qb6wahcisqOIooHRI5koT5Hz95PKoZ/view?usp=sharing) / [Prática 1](https://drive.google.com/file/d/1xu8MKRPvBqjQAaNi8LDjgRFNdki7BxGP/view?usp=sharing) / [Prática 2](https://drive.google.com/file/d/11dfO6tYh38e4SE2dvLZWVilrbgq2iwbN/view?usp=sharing) |
+|11 Out 2020| Algorithmia | [Slides](https://docs.google.com/presentation/d/1rjFwHalUsnuAdgsCxmNMY9EU7y7GpMogvAwokzqqgnE/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1SCpgFXedrPpB7cnHxGFM_VT2bxi2S7Os/view?usp=sharing) |
+|16 Out 2020| Seminários | - | - |
+|21 Out 2020| Prova Final | - | - |
+|22 Out 2020| Prazo Final para Consolidação de Notas | - | - |
