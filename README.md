@@ -121,7 +121,6 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |:-------------:|-----------------------------|:---------:|:-----------:|
 |21 Jul 2020| Apresentação da Disciplina | [Slides](https://docs.google.com/presentation/d/1VqJDR1fjlsLJw9cwZfLd74rARmFjHDPOE0fVNH8A17Y/edit?usp=sharing) | - |
 |23 Jul 2020| Conceitos Básicos sobre Nuvem | [Slides](https://docs.google.com/presentation/d/1LIIyQNGq1xrtX1F3COG2g-70yFr8LzdJKtoo_KmIXTo/edit?usp=sharing) | [Video- Conceitos Básicos](https://drive.google.com/file/d/1dbD7o1xU47ueaxIsM_tvkKwqEuYII1RF/view?usp=sharing) |
-| | | | [Video - Conceitos Básicos](https://drive.google.com/file/d/1dbD7o1xU47ueaxIsM_tvkKwqEuYII1RF/view?usp=sharing) |
 | | | | [Video - Características Essenciais](https://drive.google.com/file/d/19K8SqIUoHG29hvhX8kKGa6RmxCH1stHC/view?usp=sharing) |
 | | | | [Video - Modelos de Serviço/Implantação](https://drive.google.com/file/d/19LTk6RwtwPugk1a9ne9XLiMF4WxOPvjI/view?usp=sharing) |
 | | | | [Video - Vantagens/Desvantagens](https://drive.google.com/file/d/1vAOupmGEyMqu5HuX1Qwmi4zD2qUxx2Xh/view?usp=sharing) |
