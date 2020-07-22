@@ -120,7 +120,12 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 | Aulas       | Tópicos                      | Recursos | Tarefas |
 |:-------------:|-----------------------------|:---------:|:-----------:|
 |21 Jul 2020| Apresentação da Disciplina | [Slides](https://docs.google.com/presentation/d/1VqJDR1fjlsLJw9cwZfLd74rARmFjHDPOE0fVNH8A17Y/edit?usp=sharing) | - |
-|23 Jul 2020| Conceitos Básicos sobre Nuvem | [Slides](https://docs.google.com/presentation/d/1LIIyQNGq1xrtX1F3COG2g-70yFr8LzdJKtoo_KmIXTo/edit?usp=sharing) | [Artigo NIST](https://csrc.nist.gov/publications/detail/sp/800-145/final) |
+|23 Jul 2020| Conceitos Básicos sobre Nuvem | [Slides](https://docs.google.com/presentation/d/1LIIyQNGq1xrtX1F3COG2g-70yFr8LzdJKtoo_KmIXTo/edit?usp=sharing) | [Video- Conceitos Básicos](https://drive.google.com/file/d/1dbD7o1xU47ueaxIsM_tvkKwqEuYII1RF/view?usp=sharing) |
+| | | | [Video - Conceitos Básicos](https://drive.google.com/file/d/1dbD7o1xU47ueaxIsM_tvkKwqEuYII1RF/view?usp=sharing) |
+| | | | [Video - Características Essenciais](https://drive.google.com/file/d/19K8SqIUoHG29hvhX8kKGa6RmxCH1stHC/view?usp=sharing) |
+| | | | [Video - Modelos de Serviço/Implantação](https://drive.google.com/file/d/19LTk6RwtwPugk1a9ne9XLiMF4WxOPvjI/view?usp=sharing) |
+| | | | [Video - Vantagens/Desvantagens](https://drive.google.com/file/d/1vAOupmGEyMqu5HuX1Qwmi4zD2qUxx2Xh/view?usp=sharing) |
+| | | | [Artigo NIST](https://csrc.nist.gov/publications/detail/sp/800-145/final) |
 | | | | [Artigo Definições sobre CC](http://www.sigcomm.org/node/2749) |
 | | | | [Caps 2, 4 e 5 - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
 |28 Jul 2020| Caso de Estudo Núvem Pública: AWS | [Slides](https://docs.google.com/presentation/d/1TToinfxBdRqmmYpUxjk13sPP5HxlLuC1l92nNgte1No/edit?usp=sharing) | (http://aws.amazon.com) |
