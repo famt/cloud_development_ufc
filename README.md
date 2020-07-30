@@ -129,7 +129,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 | | | | [Caps 2, 4 e 5 - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
 |28 Jul 2020| Caso de Estudo Núvem Pública: AWS | [Slides](https://docs.google.com/presentation/d/1TToinfxBdRqmmYpUxjk13sPP5HxlLuC1l92nNgte1No/edit?usp=sharing) | Video-Aula - [Parte Teórica](https://drive.google.com/file/d/13hfWpyTliJrU2YGGgSnFjAUkRNR8Ql1F/view?usp=sharing) / [Parte Prática](https://drive.google.com/file/d/13dH5DjpBjqFkf0sVnCRo4AE_Bf9kI5wo/view?usp=sharing) |
 | |  |  | (http://aws.amazon.com) |
-|30 Jul 2020| Amazon AWS Restfull API | - | [Trabalho Prático 1 - AWS](https://github.com/famt/cloud_development_ufc/blob/2020/trabalhos/T1-TrabalhoAWS.pdf) |
+|30 Jul 2020| Amazon AWS Restfull API | - | [Trabalho Prático 1 - AWS](https://github.com/famt/cloud_development_ufc/blob/2020.2_T2/trabalhos/T1-TrabalhoAWS.pdf) |
 | |  |  | [AWS SDKs](https://aws.amazon.com/pt/tools/) |
 | |  |  | [Exemplo NodeJS](https://github.com/famt/cloud_development_ufc/blob/2020/exemplos/aws_2020.zip)  |
 |04 Ago 2020| Soluções Open Source para Nuvens Privadas | [Slides](https://docs.google.com/presentation/d/1AsFHOm1WkQUfTOhv1uIBql5Orzn_a0mi4pJpMGNRbOY/edit?usp=sharing) | [Cap. 12 (Open Source Support for Cloud) - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
