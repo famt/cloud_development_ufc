@@ -134,7 +134,11 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 | |  |  | [Trabalho Prático 1 - AWS](https://github.com/famt/cloud_development_ufc/blob/2020.2_T2/trabalhos/T1-TrabalhoAWS.pdf) |
 | |  |  | [AWS SDKs](https://aws.amazon.com/pt/tools/) |
 | |  |  | [Exemplo NodeJS](https://github.com/famt/cloud_development_ufc/blob/2020/exemplos/aws_2020.zip)  |
-|04 Ago 2020| Soluções Open Source para Nuvens Privadas | [Slides](https://docs.google.com/presentation/d/1AsFHOm1WkQUfTOhv1uIBql5Orzn_a0mi4pJpMGNRbOY/edit?usp=sharing) | [Cap. 12 (Open Source Support for Cloud) - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
+|04 Ago 2020| Soluções Open Source para Nuvens Privadas | [Slides](https://docs.google.com/presentation/d/1AsFHOm1WkQUfTOhv1uIBql5Orzn_a0mi4pJpMGNRbOY/edit?usp=sharing) | [Introdução e Eucaplyptus](https://drive.google.com/file/d/14JDopjprn-mE-ZWLnxB6Q3LTOPSPpsUU/view?usp=sharing) |
+| |  |  | [OpenNebula](https://drive.google.com/file/d/14CDDSNl5ZGYUgMefaQtiKA29d8FZuw2t/view?usp=sharing) |
+| |  |  | [OpenStack](https://drive.google.com/file/d/14Dxi5kCRbXG6hrfhjKspWvnplXd1oPaE/view?usp=sharing) |
+| |  |  | [CloudStack e conclusões](https://drive.google.com/file/d/14J64-QgsZ3MCBmpNG2CEyGAagXB0DX-i/view?usp=sharing) |
+| |  |  | [Cap. 12 (Open Source Support for Cloud) - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
 |06 Ago 2020| Estudo de Caso: OpenStack | - | - |
 |11 Ago 2020| Elasticidade | [Slides](https://docs.google.com/presentation/d/1-l8nAf8QyUlkFnfSHP2nsczyWxKj28UNK6G7lZP2L-g/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1GJ4U7YVo_r2XvSNdDEVKQD9_-AcbgBZo/view?usp=sharing) |
 |13 Ago 2020| Elasticidade na prática: Auto Scalling Groups | - | [Vídeo-Aula](https://www.youtube.com/watch?v=DcrV9c8VM7o&t=79s) |
