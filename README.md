@@ -140,7 +140,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 | |  |  | [CloudStack e conclusões](https://drive.google.com/file/d/14J64-QgsZ3MCBmpNG2CEyGAagXB0DX-i/view?usp=sharing) |
 | |  |  | [Cap. 12 (Open Source Support for Cloud) - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
 | |  |  | [Tarefa OpenPaaS](https://drive.google.com/file/d/15J3X3jlMjBDeUqcTdH5PSbyqdRxJbyHt/view?usp=sharing) |
-|06 Ago 2020| Estudo de Caso: OpenStack | - | - |
+|06 Ago 2020| Estudo de Caso: OpenStack | - | [Vídeo-Aula](https://drive.google.com/file/d/1xEVw6rHtVOqMo-_zO8h5HjyWGYZJSPyC/view?usp=sharing) |
 |11 Ago 2020| Elasticidade | [Slides](https://docs.google.com/presentation/d/1-l8nAf8QyUlkFnfSHP2nsczyWxKj28UNK6G7lZP2L-g/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1GJ4U7YVo_r2XvSNdDEVKQD9_-AcbgBZo/view?usp=sharing) |
 |13 Ago 2020| Elasticidade na prática: Auto Scalling Groups | - | [Vídeo-Aula](https://www.youtube.com/watch?v=DcrV9c8VM7o&t=79s) |
 |18 Ago 2020| Entrega de Trabalho I - AWS | - |  |
