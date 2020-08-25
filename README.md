@@ -101,7 +101,8 @@ Estes artigos podem ser obtidos a partir da rede da UFC, mediante acesso ao port
 ### Avaliação
 
 
-A avaliação será feita a partir da realização de uma prova escrita (PE) e da realização de trabalhos práticos nos assuntos das disciplinas. Serão realizados os seguintes trabalhos:
+A avaliação será feita a partir da realização de uma prova escrita (PE) e da realização de trabalhos 
+icos nos assuntos das disciplinas. Serão realizados os seguintes trabalhos:
 
 * T1 = Aplicação Web com Amazon AWS + Escalabilidade
 * T2 = Aplicação Web em uma plataforma opensource ou PAAS (a escolha do aluno)
@@ -131,7 +132,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 | |  |  | (http://aws.amazon.com) |
 |30 Jul 2020| Amazon AWS Restfull API | - | [Teoria](https://drive.google.com/file/d/14BlfsZPOGDeMRa903rDPJI0LncdK7Oad/view?usp=sharing)/ [Configuração](https://drive.google.com/file/d/147j7Elc9_mGLtV0nhLGRyps4y27t5b6f/view?usp=sharing) |
 | |  |  | [AWS SDK Java](https://drive.google.com/file/d/13yrgUQZIszTPIEirJWYACN61QjbVq6IM/view?usp=sharing) / [AWS SDK Node](https://drive.google.com/file/d/13xBZdzdly8dzLwxwK1-NnZDrshR8z-kZ/view?usp=sharing) |
-| |  |  | [Trabalho Prático 1 - AWS](https://github.com/famt/cloud_development_ufc/blob/2020.2_T2/trabalhos/T1-TrabalhoAWS.pdf) |
+| |  |  | [Trabalho Prático 1 - AWS](https://github.com/famt/cloud_development_ufc/raw/2020.2_T2/trabalhos/T1%20-%20TrabalhoAWS.pdf) |
 | |  |  | [AWS SDKs](https://aws.amazon.com/pt/tools/) |
 | |  |  | [Exemplo NodeJS](https://github.com/famt/cloud_development_ufc/blob/2020/exemplos/aws_2020.zip)  |
 |04 Ago 2020| Soluções Open Source para Nuvens Privadas | [Slides](https://docs.google.com/presentation/d/1AsFHOm1WkQUfTOhv1uIBql5Orzn_a0mi4pJpMGNRbOY/edit?usp=sharing) | [Introdução e Eucaplyptus](https://drive.google.com/file/d/14JDopjprn-mE-ZWLnxB6Q3LTOPSPpsUU/view?usp=sharing) |
@@ -145,14 +146,14 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |13 Ago 2020| Elasticidade na prática: Auto Scalling Groups | - | [Vídeo-Aula](https://www.youtube.com/watch?v=DcrV9c8VM7o&t=79s) |
 |18 Ago 2020| Entrega de Trabalho I - AWS | - |  |
 |20 Ago 2020| Google Cloud Platform | [Slides](https://docs.google.com/presentation/d/105yo6MJTTBUtthjhoXjf_-mArEimDsIQflEP9UkbjAg/edit?usp=sharing) | [Vídeo-Aula 1](https://drive.google.com/file/d/13f_s4vyan-2FCNgmbryogX0F7DbtdB2J/view?usp=sharing) / [Vídeo-Aula 2](https://drive.google.com/file/d/1HyWt-Qa2YZEUl7Opj_puxB8hz8ZAv4uo/view?usp=sharing) / [Dataset](https://github.com/famt/cloud_development_ufc/raw/2020/exemplos/student-alcohol-consumption.zip) |
-|25 Ago 2020| Google APIs e App Engine | [Slides](https://docs.google.com/presentation/d/1UCAA3-O0VRjfJ4PfStzuF8QJwuMs3LDpGEr5pRJkog8/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1FX0zPHw-Wl9kITfk3YtR2SkFHTWwTAwY/view?usp=sharing) / [Colab Notebook](https://colab.research.google.com/drive/1vFoZeQFZzTYnIK11LoHwodUd_S-anQFr) / [Trabalho Prático 2 - GCP](https://github.com/famt/cloud_development_ufc/blob/2020/trabalhos/T2%20-%20TrabalhoGCP.pdf) |
+|25 Ago 2020| Google APIs e App Engine | [Slides](https://docs.google.com/presentation/d/1UCAA3-O0VRjfJ4PfStzuF8QJwuMs3LDpGEr5pRJkog8/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1FX0zPHw-Wl9kITfk3YtR2SkFHTWwTAwY/view?usp=sharing) / [Colab Notebook](https://colab.research.google.com/drive/1vFoZeQFZzTYnIK11LoHwodUd_S-anQFr) / [Trabalho Prático 2 - GCP](https://github.com/famt/cloud_development_ufc/raw/2020.2_T2/trabalhos/T2%20-%20TrabalhoGCP.pdf) |
 |30 Ago 2020| Virtualização | [Slides](https://docs.google.com/presentation/d/1wxvtghuxDr_0wz_ChV2OBj6PLY0NefKAncwEliPb_1k/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1I8G6CKDgGn8Mq1hiujj7pkPLzTbcZrvD/view?usp=sharing) |
 |01 Set 2020| Docker | [Slides](https://docs.google.com/presentation/d/1aw98EWX2GrsBQOZaP8NWsxV957zgjoZQxk56geMJ8ps/edit?usp=sharing) | [Teoria](https://drive.google.com/file/d/1t3wJ0r9taUnOoERhuSv9fr3_oeOB1LBu/view?usp=sharing) / [Prática 1](https://drive.google.com/file/d/1tMvgmuVG-4eYCBgLhY2lt62ICAl9PwYu/view?usp=sharing) / [Prática 2](https://drive.google.com/file/d/1wWI4nSzxJg3yqeQGjDGxgNmnoQXuqzd-/view?usp=sharing) |
 |06 Set 2020| Kubernetes (Orquestração Docker) | [Slides](https://docs.google.com/presentation/d/1uy_yNNo1G3qiOvTKkMkjpifMRhJSzkvlwbBOTr3JKco/edit?usp=sharing) | [Lista de Video-Aulas: #2 a #10](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) |
 |08 Set 2020| Microsserviços | [slides](https://docs.google.com/presentation/d/1sJT40FROpDIf5zec2LBESlsGCTwtVGcPSnaNNawY5cw/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1VIzp5kjfTpgoN0ZP7KqTa6xGiERIPuhr/view?usp=sharing) |
 |13 Set 2020| Desafios de Engenharia de Software para Nuvem  | [Roteiro](https://docs.google.com/document/d/1WBtdhrzvAvzWqt5-jNkIw9dyzlpCjnYFugl0fsOQ2jQ/edit?usp=sharing) | [Formulário](https://forms.gle/9mrMWxCDKrrr8HYm9) |
 | | | | [Vídeo-Debate](https://drive.google.com/file/d/1CYyuzOlD9hz0zFXAM_w_-N8AmgiW1FRy/view?usp=sharing) |
-|15 Set 2020| Entrega do Trabalho GCP | - | Planilha de Notas / [Trabalho Prático 3 - Docker](https://github.com/famt/cloud_development_ufc/raw/2020/trabalhos/T3-Docker.pdf)|
+|15 Set 2020| Entrega do Trabalho GCP | - | Planilha de Notas / [Trabalho Prático 3 - Docker](https://github.com/famt/cloud_development_ufc/raw/2020.2_T2/trabalhos/T3%20-%20Docker.pdf)|
 |22 Set 2020| Processamento Intensivo (Map/Reduce) | [Slides](https://docs.google.com/presentation/d/1_EGPw4qevL0QGxkJ98nU8EBpBVSIARTpJlmQ96wk_Wk/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1byd9wRYAM9gYAdHR3bN6Qv_vm1NnYqXw/view?usp=sharing) |
 |22 Set 2020| Hadoop na prática | [Links](https://drive.google.com/file/d/1-cnwiIoaKrlyidiE3OmAiWyQMw-wrUTQ/view?usp=sharing) | [Video](https://drive.google.com/file/d/1-h0mtYd4WvqCs4aroIqsWwL8E5NXSxVf/view?usp=sharing) |
 |22 Set 2020| Trabalho Map/Reduce | [Especificacao](https://drive.google.com/file/d/10J46rQ4jvJgcwmeCMN6nx0j0tqRxul_W/view?usp=sharing) | Planilha de Notas / [Dataset](https://drive.google.com/drive/mobile/folders/0BzwVBj1heLoReXVLaU51bTAxZ2M?us) |
