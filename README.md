@@ -123,4 +123,4 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 
 | Aulas       | Tópicos                      | Recursos | Tarefas |
 |:-------------:|-----------------------------|:---------:|:-----------:|
-|24 Nov 2020| Apresentação da Disciplina | [Slides](https://docs.google.com/presentation/d/1r0ud_XY3TH5nyv9JVReP4_Edt6zdWNh7NDAMyjlAt64/edit?usp=sharing) | Video-Aula [Parte1](http://#)  |
+|24 Nov 2020| Apresentação da Disciplina | [Slides](https://docs.google.com/presentation/d/1r0ud_XY3TH5nyv9JVReP4_Edt6zdWNh7NDAMyjlAt64/edit?usp=sharing) | Video-Aula [Parte1](https://drive.google.com/file/d/1-ymdNQGkKrGUsYdBYdFbogUEXCuBpYyB/view?usp=sharing)  |
