@@ -128,6 +128,6 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 | | | | [Video - Características Essenciais](https://drive.google.com/file/d/10BDhQQJ7aW1yijYHVRnTjTu-vpKUdP3O/view?usp=sharing) |
 |01 Dez 2020 | Conceitos Básicos sobre Nuvem (Continuação) | | [Video - Modelos de Serviço](https://drive.google.com/file/d/1Zi_LG7MVmYqdpndz-wlWCdXca4fDJ4CI/view?usp=sharing) |
 | | | | [Video - Modelos de Implantação/Desafios](https://drive.google.com/file/d/1D56NCLVy-C35PUz9R2HhJQ8nIe60C0kp/view?usp=sharing) |
-| | | | [Artigo NIST](https://csrc.nist.gov/publications/detail/sp/800-145/final) |
-| | | | [Artigo Definições sobre CC](http://www.sigcomm.org/node/2749) |
-| | | | [Caps 2, 4 e 5 - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
+| | | [Artigo NIST](https://csrc.nist.gov/publications/detail/sp/800-145/final) |  |
+| | | [Artigo Definições sobre CC](http://www.sigcomm.org/node/2749) |  |
+| | | [Caps 2, 4 e 5 - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |  |
