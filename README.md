@@ -123,8 +123,8 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 
 | Aulas       | Tópicos                      | Recursos | Tarefas |
 |:-------------:|-----------------------------|:---------:|:-----------:|
-|24 Nov 2020| Apresentação da Disciplina | [Slides](https://docs.google.com/presentation/d/1r0ud_XY3TH5nyv9JVReP4_Edt6zdWNh7NDAMyjlAt64/edit?usp=sharing) / Video-Aula [Apresentação da Disciplina](https://drive.google.com/file/d/1-ymdNQGkKrGUsYdBYdFbogUEXCuBpYyB/view?usp=sharing) |   |
+|24 Nov 2020| Apresentação da Disciplina | [Slides](https://docs.google.com/presentation/d/1r0ud_XY3TH5nyv9JVReP4_Edt6zdWNh7NDAMyjlAt64/edit?usp=sharing) / [Video-Aula Apresentação da Disciplina](https://drive.google.com/file/d/1-ymdNQGkKrGUsYdBYdFbogUEXCuBpYyB/view?usp=sharing) |   |
 |26 Nov 2020| Conceitos Básicos sobre Nuvem | [Slides](https://docs.google.com/presentation/d/1LIIyQNGq1xrtX1F3COG2g-70yFr8LzdJKtoo_KmIXTo/edit?usp=sharing) / [Video-Aula Conceitos Básicos](https://drive.google.com/file/d/1LVPV1TJ9nxAMEQY2iYFy8Oq5cCVg-7eA/view?usp=sharing)| Leitura do [Artigo NIST](https://csrc.nist.gov/publications/detail/sp/800-145/final) e do [Artigo sobre Definições de CC](http://www.sigcomm.org/node/2749)  |
-| | | [Video - Características Essenciais](https://drive.google.com/file/d/10BDhQQJ7aW1yijYHVRnTjTu-vpKUdP3O/view?usp=sharing) |  |
+| | | [Video-Aula - Características Essenciais](https://drive.google.com/file/d/10BDhQQJ7aW1yijYHVRnTjTu-vpKUdP3O/view?usp=sharing) |  |
 |01 Dez 2020 | Conceitos Básicos sobre Nuvem (Continuação) | [Video-Aula Modelos de Serviço](https://drive.google.com/file/d/1Zi_LG7MVmYqdpndz-wlWCdXca4fDJ4CI/view?usp=sharing) |  |
 | | | [Video-Aula - Modelos de Implantação/Desafios](https://drive.google.com/file/d/1D56NCLVy-C35PUz9R2HhJQ8nIe60C0kp/view?usp=sharing) | Leitura dos [Caps 2, 4 e 5 - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
