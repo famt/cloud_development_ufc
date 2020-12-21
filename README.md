@@ -134,7 +134,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 | |  |  | [Especificação Trabalho 1](https://docs.google.com/document/d/1so-heS5DndeBjgpI4UT8GD0d0siOWyxj0THEbMipn_0/edit?usp=sharing)  |
 |10 Dez 2020| Open Source Cloud | [Slides](https://docs.google.com/presentation/d/1AsFHOm1WkQUfTOhv1uIBql5Orzn_a0mi4pJpMGNRbOY/edit?usp=sharing) / [Video-Aula ](https://drive.google.com/file/d/1nzCFtFBpdRxRzVETIm0H0R-7m8nfK9Fa/view?usp=sharing) |  Leitura do [Cap. 12 - Essentials of Cloud Computing](https://www.crcpress.com/Essentials-of-Cloud-Computing/Chandrasekaran/p/book/9781482205435) |
 |15 Dez 2020|Open Source Cloud: Visão Prática|[Video-Aula](https://drive.google.com/file/d/1jN5Yoxjqpafu_iaTGYl7LvG9s5GX93-n/view?usp=sharing)|  |
-|17 Dez 2020|Google Cloud Platform|[Slides]() / [Video-Aula]()|  |
+|17 Dez 2020|Google Cloud Platform|[Slides](https://docs.google.com/presentation/d/1L9gwdv8_U_LfFfFvbSKI3FtklrkxbCu3KoDXe0Hy42I/edit?usp=sharing) / [Video-Aula](https://drive.google.com/file/d/155CXI29zDDw4uItNIHqx_aaFstAEyVOe/view?usp=sharing)|  |
 
 
 
