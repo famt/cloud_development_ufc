@@ -138,6 +138,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |07 Jan 2021|Google Cloud Platform APIs e AppEngine|[Slides](https://docs.google.com/presentation/d/1k81bsDVMaJy7qkDIUcivWks1JtfLWljuWJ0IYmhnFnQ/edit?usp=sharing) / [Video-Aula](https://drive.google.com/file/d/1FX0zPHw-Wl9kITfk3YtR2SkFHTWwTAwY/view?usp=sharing)| [Jupyter Notebook](https://drive.google.com/file/d/1RHvabTcnDUHN97A0L9XmWvUcADBcbuF6/view?usp=sharing) |
 | | Mais sobre o GCP: |[Introdução](https://drive.google.com/file/d/1h39lVYV4RCcwzPXzuVP-ctXng8Sm63CH/view?usp=sharing) / [Dicas Iniciais](https://drive.google.com/file/d/1rekBhHB5WT_nx9mru9lqvBSd3o0ki9NR/view?usp=sharing) / [Exemplo Datastore](https://drive.google.com/file/d/1JndsvV81xjCi691P4jb687PL6iv2znCU/view?usp=sharing) / [Exemplo Storage](https://drive.google.com/file/d/1EbyI1a88YoTZeAPnB6mGh7F6yGmj8hTB/view?usp=sharing) / [Permissões de Acesso](https://drive.google.com/file/d/1w9C2QifZzBJuJ8f-OqjM1Tf2slX6Hk8G/view?usp=sharing) / [Deploy](https://drive.google.com/file/d/1ZMggT0Nj8Ol6NrhiLSYXHRDfeBkCZjxj/view?usp=sharing)| |
 |12 Jan 2021|Elasticidade|[Slides](https://docs.google.com/presentation/d/1-l8nAf8QyUlkFnfSHP2nsczyWxKj28UNK6G7lZP2L-g/edit?usp=sharing) / [Video-Aula](https://drive.google.com/file/d/1f65PRm0X_x-xO6V422eY2HbzWcZ3K9gX/view?usp=sharing)| |
+|14 Jan 2021| Elasticidade na prática: Auto Scalling Groups | - | [Vídeo-Aula](https://www.youtube.com/watch?v=DcrV9c8VM7o&t=79s) |
 
 
 
