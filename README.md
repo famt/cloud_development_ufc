@@ -140,7 +140,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |12 Jan 2021|Elasticidade|[Slides](https://docs.google.com/presentation/d/1-l8nAf8QyUlkFnfSHP2nsczyWxKj28UNK6G7lZP2L-g/edit?usp=sharing) / [Video-Aula](https://drive.google.com/file/d/1f65PRm0X_x-xO6V422eY2HbzWcZ3K9gX/view?usp=sharing)| |
 |14 Jan 2021| Elasticidade na prática: Auto Scalling Groups | [Vídeo-Aula](https://www.youtube.com/watch?v=DcrV9c8VM7o&t=79s) |  |
 |19 Jan 2021| Virtualização | [Slides]()/[Vídeo-Aula]() |  |
-|21 Jan 2021| Docker - Introdução | [Slides](https://docs.google.com/presentation/d/1aw98EWX2GrsBQOZaP8NWsxV957zgjoZQxk56geMJ8ps/edit?usp=sharing) / [Vídeo-Aula](https://drive.google.com/file/d/1I7GnGQcoiMvVdWVThRojkYyWbAfripSu/view?usp=sharing) |  |
+|21 Jan 2021| Docker - Introdução | [Slides](https://docs.google.com/presentation/d/1aw98EWX2GrsBQOZaP8NWsxV957zgjoZQxk56geMJ8ps/edit?usp=sharing) / [Vídeo-Aula](https://drive.google.com/file/d/1I7GnGQcoiMvVdWVThRojkYyWbAfripSu/view?usp=sharing) | [Free Docker Books](https://github.com/grglzrv/docker-books) |
 |26 Jan 2021| Prática Docker e Docker Compose | [Slides](https://docs.google.com/presentation/d/1aw98EWX2GrsBQOZaP8NWsxV957zgjoZQxk56geMJ8ps/edit?usp=sharing) / Vídeo-Aulas: [Prática Docker](https://drive.google.com/file/d/1tMvgmuVG-4eYCBgLhY2lt62ICAl9PwYu/view?usp=sharing) / [Docker Compose](https://drive.google.com/file/d/1wWI4nSzxJg3yqeQGjDGxgNmnoQXuqzd-/view?usp=sharing) |  |
 
 
