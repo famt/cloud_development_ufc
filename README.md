@@ -145,5 +145,9 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |26 Jan 2021| Prática Docker e Docker Compose | [Slides](https://docs.google.com/presentation/d/1aw98EWX2GrsBQOZaP8NWsxV957zgjoZQxk56geMJ8ps/edit?usp=sharing) / Vídeo-Aulas: [Prática Docker](https://drive.google.com/file/d/1tMvgmuVG-4eYCBgLhY2lt62ICAl9PwYu/view?usp=sharing) / [Docker Compose](https://drive.google.com/file/d/1wWI4nSzxJg3yqeQGjDGxgNmnoQXuqzd-/view?usp=sharing) |  |
 |28 Jan 2021| Kubernetes | [Slides](https://docs.google.com/presentation/d/1uy_yNNo1G3qiOvTKkMkjpifMRhJSzkvlwbBOTr3JKco/edit?usp=sharing) | [Lista de Video-Aulas: #2 a #10](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) |
 |02 Fev 2021| Kubernetes | [Slides](https://docs.google.com/presentation/d/1uy_yNNo1G3qiOvTKkMkjpifMRhJSzkvlwbBOTr3JKco/edit?usp=sharing) | [Lista de Video-Aulas: #2 a #10](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) |
+|16 Fev 2021| Aula-invertida sobre Impacto da Computação em Nuvem na Engenharia de Software | [Roteiro](https://docs.google.com/document/d/1WBtdhrzvAvzWqt5-jNkIw9dyzlpCjnYFugl0fsOQ2jQ/edit?usp=sharing) | [Formulário](https://forms.gle/yHkxhmm9pr4TmETB9) |
+
+
+
 
 
