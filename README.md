@@ -147,6 +147,9 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |02 Fev 2021| Kubernetes | [Slides](https://docs.google.com/presentation/d/1uy_yNNo1G3qiOvTKkMkjpifMRhJSzkvlwbBOTr3JKco/edit?usp=sharing) | [Lista de Video-Aulas: #2 a #10](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) [Aula síncrona - parte 2](https://drive.google.com/file/d/1Eek0xXjwRjCZwjRWjbRRVr6uEB1I_HzD/view?usp=sharing) |
 |11 Fev 2021| Microsserviços | [Slides](https://docs.google.com/presentation/d/1sJT40FROpDIf5zec2LBESlsGCTwtVGcPSnaNNawY5cw/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/1y9lOfZ3_20QUsgBRTvQ_wFQ_tvAae0z4/view?usp=sharing) |
 |16 Fev 2021| Aula-invertida sobre Impacto da Computação em Nuvem na Engenharia de Software | [Roteiro](https://docs.google.com/document/d/1WBtdhrzvAvzWqt5-jNkIw9dyzlpCjnYFugl0fsOQ2jQ/edit?usp=sharing) | [Formulário](https://forms.gle/yHkxhmm9pr4TmETB9) |
+|25 Fev 2021| Processamento Intensivo (Map/Reduce) | [Slides](https://docs.google.com/presentation/d/1_EGPw4qevL0QGxkJ98nU8EBpBVSIARTpJlmQ96wk_Wk/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1byd9wRYAM9gYAdHR3bN6Qv_vm1NnYqXw/view?usp=sharing) |
+|02 Mar 2021| Hadoop na prática | [Links](https://drive.google.com/file/d/1-cnwiIoaKrlyidiE3OmAiWyQMw-wrUTQ/view?usp=sharing) | [Video](https://drive.google.com/file/d/1-h0mtYd4WvqCs4aroIqsWwL8E5NXSxVf/view?usp=sharing) |
+|02 Mar 2021| Trabalho Map/Reduce | [Especificacao](https://drive.google.com/file/d/10J46rQ4jvJgcwmeCMN6nx0j0tqRxul_W/view?usp=sharing) |  [Dataset](https://drive.google.com/drive/mobile/folders/0BzwVBj1heLoReXVLaU51bTAxZ2M?us) |
 
 
 
