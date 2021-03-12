@@ -150,6 +150,8 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |25 Fev 2021| Processamento Intensivo (Map/Reduce) | [Slides](https://docs.google.com/presentation/d/1_EGPw4qevL0QGxkJ98nU8EBpBVSIARTpJlmQ96wk_Wk/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1byd9wRYAM9gYAdHR3bN6Qv_vm1NnYqXw/view?usp=sharing) |
 |02 Mar 2021| Hadoop na prática | [Links](https://drive.google.com/file/d/1-cnwiIoaKrlyidiE3OmAiWyQMw-wrUTQ/view?usp=sharing) | [Video](https://drive.google.com/file/d/1-h0mtYd4WvqCs4aroIqsWwL8E5NXSxVf/view?usp=sharing) |
 |02 Mar 2021| Trabalho Map/Reduce | [Especificacao](https://drive.google.com/file/d/10J46rQ4jvJgcwmeCMN6nx0j0tqRxul_W/view?usp=sharing) |  [Dataset](https://drive.google.com/drive/mobile/folders/0BzwVBj1heLoReXVLaU51bTAxZ2M?us) |
+|09 Mar 2021| Serverless |  [Slides](https://docs.google.com/presentation/d/12Z-lATmFopY_qIfZfU-V__Nl2PJq_AXD2ZHTmPj4tpg/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1Mt0bB6YBrRDWO-5_mdPAaktesRDTTp0f/view?usp=sharing) |
+|11 Mar 2021| Serverless |  | [Prática - Parte 1](https://drive.google.com/file/d/1xu8MKRPvBqjQAaNi8LDjgRFNdki7BxGP/view?usp=sharing) [Prática - Parte 2](https://drive.google.com/file/d/11dfO6tYh38e4SE2dvLZWVilrbgq2iwbN/view?usp=sharing)  |
 
 
 
