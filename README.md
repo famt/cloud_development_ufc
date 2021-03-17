@@ -152,6 +152,7 @@ Alunos que não obtiverem nota acima ou igual a 7,0 (sete), farão prova final e
 |02 Mar 2021| Trabalho Map/Reduce | [Especificacao](https://drive.google.com/file/d/10J46rQ4jvJgcwmeCMN6nx0j0tqRxul_W/view?usp=sharing) |  [Dataset](https://drive.google.com/drive/mobile/folders/0BzwVBj1heLoReXVLaU51bTAxZ2M?us) |
 |09 Mar 2021| Serverless |  [Slides](https://docs.google.com/presentation/d/12Z-lATmFopY_qIfZfU-V__Nl2PJq_AXD2ZHTmPj4tpg/edit?usp=sharing) | [Video-Aula](https://drive.google.com/file/d/1Mt0bB6YBrRDWO-5_mdPAaktesRDTTp0f/view?usp=sharing) |
 |11 Mar 2021| Serverless |  | [Prática - Parte 1](https://drive.google.com/file/d/1xu8MKRPvBqjQAaNi8LDjgRFNdki7BxGP/view?usp=sharing) [Prática - Parte 2](https://drive.google.com/file/d/11dfO6tYh38e4SE2dvLZWVilrbgq2iwbN/view?usp=sharing)  |
+|16 Mar 2021| Integração Nuvem e Computação Móvel | [Slides](https://docs.google.com/presentation/d/1SULYl_WaGYTbRBz5Lmc2wcEsoRmKDKO-lXO-Tf35gZo/edit?usp=sharing) | [Vídeo-Aula](https://drive.google.com/file/d/16ZG8pM4-ER1BDqzWo0olvRyi1et-uQvD/view?usp=sharing)  |
 
 
 
